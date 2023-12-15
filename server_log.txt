@@ -462,3 +462,202 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [02:10:39] No hay 3 parametros
 [02:10:48] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
 [02:10:48] ga ga ga 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:37] 
+[17:52:37] Server Plugins
+[17:52:37] --------------
+[17:52:37]  Loading plugin: streamer.dll
+[17:52:37] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[17:52:37]   Loaded.
+[17:52:37]  Loading plugin: mysql.dll
+[17:52:37]  >> plugin.mysql: R41-4 successfully loaded.
+[17:52:37]   Loaded.
+[17:52:37]  Loading plugin: sscanf.dll
+[17:52:37] 
+[17:52:37]  ===============================
+[17:52:37] 
+[17:52:37]       sscanf plugin loaded.     
+[17:52:37] 
+[17:52:37]          Version: 2.13.8
+[17:52:37] 
+[17:52:37]    (c) 2022 Alex "Y_Less" Cole  
+[17:52:37] 
+[17:52:37]  ===============================
+[17:52:37] 
+[17:52:37]   Loaded.
+[17:52:37]  Loading plugin: samp_bcrypt.dll
+[17:52:37] [SampBcrypt] [info]: Version: 0.4.0
+[17:52:37]   Loaded.
+[17:52:37]  Loaded 4 plugins.
+
+[17:52:37] 
+[17:52:37] Filterscripts
+[17:52:37] ---------------
+[17:52:37]   Loaded 0 filterscripts.
+
+[17:52:37] Conexión establecida a la base de datos.
+[17:52:37] Hello frikin well
+[17:52:37] Saludando...
+[17:52:37] Number of vehicle models: 0
+[17:52:37] hash : $2y$12$ctbxs6NhWH.0gRi449j6sOBDLrUFTpz6bO0x7qPeHh55fo9u1tyQu
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:54:09] 
+[17:54:09] Server Plugins
+[17:54:09] --------------
+[17:54:09]  Loading plugin: streamer.dll
+[17:54:09] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[17:54:09]   Loaded.
+[17:54:09]  Loading plugin: mysql.dll
+[17:54:09]  >> plugin.mysql: R41-4 successfully loaded.
+[17:54:09]   Loaded.
+[17:54:09]  Loading plugin: sscanf.dll
+[17:54:09] 
+[17:54:09]  ===============================
+[17:54:09] 
+[17:54:09]       sscanf plugin loaded.     
+[17:54:09] 
+[17:54:09]          Version: 2.13.8
+[17:54:09] 
+[17:54:09]    (c) 2022 Alex "Y_Less" Cole  
+[17:54:09] 
+[17:54:09]  ===============================
+[17:54:09] 
+[17:54:09]   Loaded.
+[17:54:09]  Loading plugin: samp_bcrypt.dll
+[17:54:09] [SampBcrypt] [info]: Version: 0.4.0
+[17:54:09]   Loaded.
+[17:54:09]  Loaded 4 plugins.
+
+[17:54:09] 
+[17:54:09] Filterscripts
+[17:54:09] ---------------
+[17:54:09]   Loaded 0 filterscripts.
+
+[17:54:09] Conexión establecida a la base de datos.
+[17:54:09] Hello frikin well
+[17:54:09] Saludando...
+[17:54:09] hash : 
+[17:54:09] Number of vehicle models: 0
+[17:54:09] hello world
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:55:35] 
+[17:55:35] Server Plugins
+[17:55:35] --------------
+[17:55:35]  Loading plugin: streamer.dll
+[17:55:35] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[17:55:35]   Loaded.
+[17:55:35]  Loading plugin: mysql.dll
+[17:55:35]  >> plugin.mysql: R41-4 successfully loaded.
+[17:55:35]   Loaded.
+[17:55:35]  Loading plugin: sscanf.dll
+[17:55:35] 
+[17:55:35]  ===============================
+[17:55:35] 
+[17:55:35]       sscanf plugin loaded.     
+[17:55:35] 
+[17:55:35]          Version: 2.13.8
+[17:55:35] 
+[17:55:35]    (c) 2022 Alex "Y_Less" Cole  
+[17:55:35] 
+[17:55:35]  ===============================
+[17:55:35] 
+[17:55:35]   Loaded.
+[17:55:35]  Loading plugin: samp_bcrypt.dll
+[17:55:35] [SampBcrypt] [info]: Version: 0.4.0
+[17:55:35]   Loaded.
+[17:55:35]  Loaded 4 plugins.
+
+[17:55:35] 
+[17:55:35] Filterscripts
+[17:55:35] ---------------
+[17:55:35]   Loaded 0 filterscripts.
+
+[17:55:35] Conexión establecida a la base de datos.
+[17:55:35] Hello frikin well
+[17:55:35] Saludando...
+[17:55:35] hash : 
+[17:55:35] Number of vehicle models: 0
+[17:55:35] hello world
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:56:02] 
+[17:56:02] Server Plugins
+[17:56:02] --------------
+[17:56:02]  Loading plugin: streamer.dll
+[17:56:02] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[17:56:02]   Loaded.
+[17:56:02]  Loading plugin: mysql.dll
+[17:56:02]  >> plugin.mysql: R41-4 successfully loaded.
+[17:56:02]   Loaded.
+[17:56:02]  Loading plugin: sscanf.dll
+[17:56:02] 
+[17:56:02]  ===============================
+[17:56:02] 
+[17:56:02]       sscanf plugin loaded.     
+[17:56:02] 
+[17:56:02]          Version: 2.13.8
+[17:56:02] 
+[17:56:02]    (c) 2022 Alex "Y_Less" Cole  
+[17:56:02] 
+[17:56:02]  ===============================
+[17:56:02] 
+[17:56:02]   Loaded.
+[17:56:02]  Loading plugin: samp_bcrypt.dll
+[17:56:02] [SampBcrypt] [info]: Version: 0.4.0
+[17:56:02]   Loaded.
+[17:56:02]  Loaded 4 plugins.
+
+[17:56:02] 
+[17:56:02] Filterscripts
+[17:56:02] ---------------
+[17:56:02]   Loaded 0 filterscripts.
+
+[17:56:02] Conexión establecida a la base de datos.
+[17:56:02] Hello frikin well
+[17:56:02] Saludando...
+[17:56:02] Number of vehicle models: 0
+[17:56:02] hello world
+[17:56:02] hash : $2y$12$dU.pgXr20cukq1VHRC/Vme0mEWSXeid6ln9.7oPhNtEfObPBaQLLe

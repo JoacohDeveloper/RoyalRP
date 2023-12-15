@@ -12,6 +12,8 @@ main()
 {
 	print("Hello frikin well");
 	saludar();
+
+
 }
 
 public OnGameModeInit() {
@@ -26,7 +28,7 @@ public OnPlayerConnect(playerid)
 	User[playerid][Health] = setHealth(playerid, 33.45);
 
 
-	
+
 	GameTextForPlayer(playerid,"~w~SA-MP: ~r~RoyalRP.GG",5000,5);
 	return 1;
 }
