@@ -1,0 +1,17 @@
+{
+	"user": "JoacohDeveloper",
+	"repo": "RoyalRP",
+	"entry": "gamemodes\\bare.pwn",
+	"output": "gamemodes/gamemodes\\bare.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"lassir/bcrypt-samp:v2.2.5"
+	],
+	"local": true,
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
