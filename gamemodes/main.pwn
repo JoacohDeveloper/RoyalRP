@@ -9,7 +9,7 @@
 
 main()
 {
-	print("Hello World");
+	print("Hello frikin well");
 
 	saludar();
 }
