@@ -16,7 +16,6 @@ public dbConn() {
 
 	if(mysql_errno() != 0) {
 		SendRconCommand("exit");
-		print("Error al conectarse en la base de datos.");
 	} else {
 		print("Conexión establecida a la base de datos.");
 	}
