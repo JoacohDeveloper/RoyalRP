@@ -1,0 +1,2 @@
+[12/15/23 02:06:16] [ERROR] error #1062 while executing query "INSERT INTO `user` (`uuid`,`username`,`email`,`password`) VALUES ('uuukd','joaco','caca@caca', 'hola123')": Duplicate entry 'uuukd' for key 'PRIMARY'
+[12/15/23 02:10:12] [ERROR] error #1062 while executing query "INSERT INTO `user` (`uuid`,`username`,`email`,`password`) VALUES ('uuukd','joaco','caca@caca', 'hola123')": Duplicate entry 'uuukd' for key 'PRIMARY'
