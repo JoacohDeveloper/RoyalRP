@@ -3068,3 +3068,997 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 
 [00:35:10] plugin.mysql: Unloading plugin...
 [00:35:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:53:17] 
+[04:53:17] Server Plugins
+[04:53:17] --------------
+[04:53:17]  Loading plugin: samp_bcrypt
+[04:53:17] [SampBcrypt] [info]: Version: 0.4.0
+[04:53:17]   Loaded.
+[04:53:17]  Loading plugin: streamer
+[04:53:17] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[04:53:17]   Loaded.
+[04:53:17]  Loading plugin: mysql
+[04:53:17]  >> plugin.mysql: R41-4 successfully loaded.
+[04:53:17]   Loaded.
+[04:53:17]  Loaded 3 plugins.
+
+[04:53:17] 
+[04:53:17] Filterscripts
+[04:53:17] ---------------
+[04:53:17]   Loaded 0 filterscripts.
+
+[04:53:17] Conexión establecida a la base de datos.
+[04:53:17] Hello frikin well
+[04:53:17] Number of vehicle models: 0
+[04:53:44] [connection] incoming connection: 127.0.0.1:52335 id: 0
+[04:53:45] [join] Joaco has joined the server (0:127.0.0.1)
+[04:54:34] 1
+[04:56:16] [part] Joaco has left the server (0:1)
+[04:56:23] --- Server Shutting Down.
+[04:56:23] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[04:56:23] plugin.mysql: Unloading plugin...
+[04:56:23] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:56:24] 
+[04:56:24] Server Plugins
+[04:56:24] --------------
+[04:56:24]  Loading plugin: samp_bcrypt
+[04:56:24] [SampBcrypt] [info]: Version: 0.4.0
+[04:56:24]   Loaded.
+[04:56:24]  Loading plugin: streamer
+[04:56:24] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[04:56:24]   Loaded.
+[04:56:24]  Loading plugin: mysql
+[04:56:24]  >> plugin.mysql: R41-4 successfully loaded.
+[04:56:24]   Loaded.
+[04:56:24]  Loaded 3 plugins.
+
+[04:56:24] 
+[04:56:24] Filterscripts
+[04:56:24] ---------------
+[04:56:24]   Loaded 0 filterscripts.
+
+[04:56:24] Conexión establecida a la base de datos.
+[04:56:24] Hello frikin well
+[04:56:24] Number of vehicle models: 0
+[04:56:47] [connection] incoming connection: 127.0.0.1:57321 id: 0
+[04:56:47] [join] Joaco has joined the server (0:127.0.0.1)
+[04:57:03] 1
+[04:57:11] [part] Joaco has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:24:08] 
+[05:24:08] Server Plugins
+[05:24:08] --------------
+[05:24:08]  Loading plugin: samp_bcrypt
+[05:24:08] [SampBcrypt] [info]: Version: 0.4.0
+[05:24:08]   Loaded.
+[05:24:08]  Loading plugin: streamer
+[05:24:08] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[05:24:08]   Loaded.
+[05:24:08]  Loading plugin: mysql
+[05:24:08]  >> plugin.mysql: R41-4 successfully loaded.
+[05:24:08]   Loaded.
+[05:24:08]  Loaded 3 plugins.
+
+[05:24:08] 
+[05:24:08] Filterscripts
+[05:24:08] ---------------
+[05:24:08]   Loading filterscript 'cameraeditor.amx'...
+[05:24:08] *** Streamer Plugin: The include file version (0x27201) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[05:24:08]   Loaded 1 filterscripts.
+
+[05:24:08] Conexión establecida a la base de datos.
+[05:24:08] Hello frikin well
+[05:24:08] Number of vehicle models: 0
+[05:24:40] [connection] incoming connection: 127.0.0.1:61938 id: 0
+[05:24:41] [join] Joaco has joined the server (0:127.0.0.1)
+[05:44:14] [part] Joaco has left the server (0:1)
+[05:44:17] --- Server Shutting Down.
+[05:44:17] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[05:44:17] plugin.mysql: Unloading plugin...
+[05:44:17] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:45:13] 
+[05:45:13] Server Plugins
+[05:45:13] --------------
+[05:45:13]  Loading plugin: samp_bcrypt
+[05:45:13] [SampBcrypt] [info]: Version: 0.4.0
+[05:45:13]   Loaded.
+[05:45:13]  Loading plugin: streamer
+[05:45:13] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[05:45:13]   Loaded.
+[05:45:13]  Loading plugin: mysql
+[05:45:13]  >> plugin.mysql: R41-4 successfully loaded.
+[05:45:13]   Loaded.
+[05:45:13]  Loading plugin: sscanf
+[05:45:13] 
+[05:45:13]  ===============================
+[05:45:13] 
+[05:45:13]       sscanf plugin loaded.     
+[05:45:13] 
+[05:45:13]          Version: 2.13.8
+[05:45:13] 
+[05:45:13]    (c) 2022 Alex "Y_Less" Cole  
+[05:45:13] 
+[05:45:13]  ===============================
+[05:45:13] 
+[05:45:13]   Loaded.
+[05:45:13]  Loaded 4 plugins.
+
+[05:45:13] 
+[05:45:13] Filterscripts
+[05:45:13] ---------------
+[05:45:13]   Loaded 0 filterscripts.
+
+[05:45:13] Conexión establecida a la base de datos.
+[05:45:13] Hello frikin well
+[05:45:13] Number of vehicle models: 0
+[05:46:33] --- Server Shutting Down.
+[05:46:33] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[05:46:33] plugin.mysql: Unloading plugin...
+[05:46:33] plugin.mysql: Plugin unloaded.
+[05:46:33] 
+[05:46:33]  ===============================
+[05:46:33] 
+[05:46:33]      sscanf plugin unloaded.    
+[05:46:33] 
+[05:46:33]  ===============================
+[05:46:33] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:47:00] 
+[05:47:00] Server Plugins
+[05:47:00] --------------
+[05:47:00]  Loading plugin: samp_bcrypt
+[05:47:00] [SampBcrypt] [info]: Version: 0.4.0
+[05:47:00]   Loaded.
+[05:47:00]  Loading plugin: streamer
+[05:47:00] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[05:47:00]   Loaded.
+[05:47:00]  Loading plugin: mysql
+[05:47:00]  >> plugin.mysql: R41-4 successfully loaded.
+[05:47:00]   Loaded.
+[05:47:00]  Loading plugin: sscanf
+[05:47:00] 
+[05:47:00]  ===============================
+[05:47:00] 
+[05:47:00]       sscanf plugin loaded.     
+[05:47:00] 
+[05:47:00]          Version: 2.13.8
+[05:47:00] 
+[05:47:00]    (c) 2022 Alex "Y_Less" Cole  
+[05:47:00] 
+[05:47:00]  ===============================
+[05:47:00] 
+[05:47:00]   Loaded.
+[05:47:00]  Loaded 4 plugins.
+
+[05:47:00] 
+[05:47:00] Filterscripts
+[05:47:00] ---------------
+[05:47:00]   Loading filterscript 'cameraeditor.amx'...
+[05:47:00] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[05:47:00]  
+[05:47:00]  
+[05:47:00]          ==============================================================
+[05:47:00]          |                                                            |
+[05:47:00]          |                                                            |
+[05:47:00]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[05:47:00]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[05:47:00]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[05:47:00]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[05:47:00]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[05:47:00]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[05:47:00]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[05:47:00]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[05:47:00]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[05:47:00]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[05:47:00]          |           Y:::::Y                    S:::::S   I::::I      |
+[05:47:00]          |           Y:::::Y                    S:::::S   I::::I      |
+[05:47:00]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[05:47:00]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[05:47:00]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[05:47:00]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[05:47:00]          |                                                            |
+[05:47:00]          |                                                            |
+[05:47:00]          |                      (c) 2021 MPL v1.1                     |
+[05:47:00]          |            Alex "Y_Less" Cole and contributors.            |
+[05:47:00]          |                                                            |
+[05:47:00]          |                                                            |
+[05:47:00]          ==============================================================
+[05:47:00]  
+[05:47:00]  
+[05:47:00]  ========================================== 
+[05:47:00]  |                                        | 
+[05:47:00]  |  Missing YSI scriptfiles directories:  | 
+[05:47:00]  |                                        | 
+[05:47:00]  |      /scriptfiles/YSI/fixes/           | 
+[05:47:00]  |      /scriptfiles/YSI/temp/            | 
+[05:47:00]  |                                        | 
+[05:47:00]  ========================================== 
+[05:47:00]  |                                        | 
+[05:47:00]  |   Generating code, this may take a     | 
+[05:47:00]  |  little bit of time.  Note that this   | 
+[05:47:00]  |  code generation works best with the   | 
+[05:47:00]  |     JIT plugin, which you are not      | 
+[05:47:00]  |     currently using.  Get it here:     | 
+[05:47:00]  |                                        | 
+[05:47:00]  |       https://git.io/jit-plugin        | 
+[05:47:00]  |                                        | 
+[05:47:00]  |             Please wait...             | 
+[05:47:00]  |                                        | 
+[05:47:00]  |             Done in 12ms!              | 
+[05:47:00]  |                                        | 
+[05:47:00]  ========================================== 
+[05:47:00] *** YSI Info: Script ID: 1
+[05:47:00] Unknown command or variable:
+  fixes_onclientcheckresponse
+[05:47:00] *** YSI Warning: Could not load RconCommand/ClientCheckResponse fix FS.
+[05:47:00] *** YSI Info: Ignore this error if the FS already loaded.
+[05:47:00]  |                                        | 
+[05:47:00]  | Server:      0.3.7-R2 (W)              | 
+[05:47:00]  | Started:     16 Dec 2023 - 05:47:00    | 
+[05:47:00]  |                                        | 
+[05:47:00]  | Compiler:    3.10.10 (Windows)         | 
+[05:47:00]  | Includes:    0.3DL                     | 
+[05:47:00]  | Codepage:    <none>                    | 
+[05:47:00]  | Built:       16 Dec 2023 - 05:44:03    | 
+[05:47:00]  |                                        | 
+[05:47:00]  | YSI:         v05.09.0982               | 
+[05:47:00]  | Master:      1                         | 
+[05:47:00]  |                                        | 
+[05:47:00]  | JIT:         <none>                    | 
+[05:47:00]  | Crashdetect: <none>                    | 
+[05:47:00]  |                                        | 
+[05:47:00]  ========================================== 
+[05:47:00]  
+[05:47:00]  
+[05:47:00] 
+--------------------------------------
+[05:47:00]  Camera Editor loaded! Created by: Flashiee/UnuAlex
+[05:47:00] --------------------------------------
+
+[05:47:00]   Loading filterscript 'u.amx'...
+[05:47:00]   Unable to load filterscript '.amx'.
+[05:47:00]   Loaded 1 filterscripts.
+
+[05:47:00] Conexión establecida a la base de datos.
+[05:47:00] Hello frikin well
+[05:47:00] Number of vehicle models: 0
+[05:47:29] [connection] incoming connection: 127.0.0.1:59987 id: 0
+[05:47:29] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:58:32] 
+[05:58:32] Server Plugins
+[05:58:32] --------------
+[05:58:32]  Loading plugin: samp_bcrypt
+[05:58:32] [SampBcrypt] [info]: Version: 0.4.0
+[05:58:32]   Loaded.
+[05:58:32]  Loading plugin: streamer
+[05:58:32] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[05:58:32]   Loaded.
+[05:58:32]  Loading plugin: mysql
+[05:58:32]  >> plugin.mysql: R41-4 successfully loaded.
+[05:58:32]   Loaded.
+[05:58:32]  Loading plugin: sscanf
+[05:58:32] 
+[05:58:32]  ===============================
+[05:58:32] 
+[05:58:32]       sscanf plugin loaded.     
+[05:58:32] 
+[05:58:32]          Version: 2.13.8
+[05:58:32] 
+[05:58:32]    (c) 2022 Alex "Y_Less" Cole  
+[05:58:32] 
+[05:58:32]  ===============================
+[05:58:32] 
+[05:58:32]   Loaded.
+[05:58:32]  Loaded 4 plugins.
+
+[05:58:32] 
+[05:58:32] Filterscripts
+[05:58:32] ---------------
+[05:58:32]   Loading filterscript 'cameraeditor.amx'...
+[05:58:32] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[05:58:32]  
+[05:58:32]  
+[05:58:32]          ==============================================================
+[05:58:32]          |                                                            |
+[05:58:32]          |                                                            |
+[05:58:32]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[05:58:32]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[05:58:32]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[05:58:32]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[05:58:32]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[05:58:32]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[05:58:32]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[05:58:32]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[05:58:32]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[05:58:32]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[05:58:32]          |           Y:::::Y                    S:::::S   I::::I      |
+[05:58:32]          |           Y:::::Y                    S:::::S   I::::I      |
+[05:58:32]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[05:58:32]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[05:58:32]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[05:58:32]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[05:58:32]          |                                                            |
+[05:58:32]          |                                                            |
+[05:58:32]          |                      (c) 2021 MPL v1.1                     |
+[05:58:32]          |            Alex "Y_Less" Cole and contributors.            |
+[05:58:32]          |                                                            |
+[05:58:32]          |                                                            |
+[05:58:32]          ==============================================================
+[05:58:32]  
+[05:58:32]  
+[05:58:32]  ========================================== 
+[05:58:32]  |                                        | 
+[05:58:32]  |  Missing YSI scriptfiles directories:  | 
+[05:58:32]  |                                        | 
+[05:58:32]  |      /scriptfiles/YSI/fixes/           | 
+[05:58:32]  |      /scriptfiles/YSI/temp/            | 
+[05:58:32]  |                                        | 
+[05:58:32]  ========================================== 
+[05:58:32]  |                                        | 
+[05:58:32]  |   Generating code, this may take a     | 
+[05:58:32]  |  little bit of time.  Note that this   | 
+[05:58:32]  |  code generation works best with the   | 
+[05:58:32]  |     JIT plugin, which you are not      | 
+[05:58:32]  |     currently using.  Get it here:     | 
+[05:58:32]  |                                        | 
+[05:58:32]  |       https://git.io/jit-plugin        | 
+[05:58:32]  |                                        | 
+[05:58:32]  |             Please wait...             | 
+[05:58:32]  |                                        | 
+[05:58:32]  |             Done in 10ms!              | 
+[05:58:32]  |                                        | 
+[05:58:32]  ========================================== 
+[05:58:32] *** YSI Info: Script ID: 1
+[05:58:32] Unknown command or variable:
+  fixes_onclientcheckresponse
+[05:58:32] *** YSI Warning: Could not load RconCommand/ClientCheckResponse fix FS.
+[05:58:32] *** YSI Info: Ignore this error if the FS already loaded.
+[05:58:32]  |                                        | 
+[05:58:32]  | Server:      0.3.7-R2 (W)              | 
+[05:58:32]  | Started:     16 Dec 2023 - 05:58:32    | 
+[05:58:32]  |                                        | 
+[05:58:32]  | Compiler:    3.10.10 (Windows)         | 
+[05:58:32]  | Includes:    0.3DL                     | 
+[05:58:32]  | Codepage:    <none>                    | 
+[05:58:32]  | Built:       16 Dec 2023 - 05:44:03    | 
+[05:58:32]  |                                        | 
+[05:58:32]  | YSI:         v05.09.0982               | 
+[05:58:32]  | Master:      1                         | 
+[05:58:32]  |                                        | 
+[05:58:32]  | JIT:         <none>                    | 
+[05:58:32]  | Crashdetect: <none>                    | 
+[05:58:32]  |                                        | 
+[05:58:32]  ========================================== 
+[05:58:32]  
+[05:58:32]  
+[05:58:32] 
+--------------------------------------
+[05:58:32]  Camera Editor loaded! Created by: Flashiee/UnuAlex
+[05:58:32] --------------------------------------
+
+[05:58:32]   Loading filterscript 'u.amx'...
+[05:58:32]   Unable to load filterscript '.amx'.
+[05:58:32]   Loaded 1 filterscripts.
+
+[05:58:32] Conexión establecida a la base de datos.
+[05:58:32] Hello frikin well
+[05:58:32] Number of vehicle models: 0
+[05:58:39] [connection] incoming connection: 127.0.0.1:63664 id: 0
+[05:58:39] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:00:09] 
+[06:00:09] Server Plugins
+[06:00:09] --------------
+[06:00:09]  Loading plugin: samp_bcrypt
+[06:00:09] [SampBcrypt] [info]: Version: 0.4.0
+[06:00:09]   Loaded.
+[06:00:09]  Loading plugin: streamer
+[06:00:09] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[06:00:09]   Loaded.
+[06:00:09]  Loading plugin: mysql
+[06:00:09]  >> plugin.mysql: R41-4 successfully loaded.
+[06:00:09]   Loaded.
+[06:00:09]  Loading plugin: sscanf
+[06:00:09] 
+[06:00:09]  ===============================
+[06:00:09] 
+[06:00:09]       sscanf plugin loaded.     
+[06:00:09] 
+[06:00:09]          Version: 2.13.8
+[06:00:09] 
+[06:00:09]    (c) 2022 Alex "Y_Less" Cole  
+[06:00:09] 
+[06:00:09]  ===============================
+[06:00:09] 
+[06:00:09]   Loaded.
+[06:00:09]  Loaded 4 plugins.
+
+[06:00:09] 
+[06:00:09] Filterscripts
+[06:00:09] ---------------
+[06:00:09]   Loaded 0 filterscripts.
+
+[06:00:10] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[06:00:10]  
+[06:00:10]  
+[06:00:10]          ==============================================================
+[06:00:10]          |                                                            |
+[06:00:10]          |                                                            |
+[06:00:10]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[06:00:10]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[06:00:10]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[06:00:10]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[06:00:10]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[06:00:10]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[06:00:10]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[06:00:10]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[06:00:10]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[06:00:10]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[06:00:10]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:00:10]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:00:10]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[06:00:10]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[06:00:10]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[06:00:10]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[06:00:10]          |                                                            |
+[06:00:10]          |                                                            |
+[06:00:10]          |                      (c) 2021 MPL v1.1                     |
+[06:00:10]          |            Alex "Y_Less" Cole and contributors.            |
+[06:00:10]          |                                                            |
+[06:00:10]          |                                                            |
+[06:00:10]          ==============================================================
+[06:00:10]  
+[06:00:10]  
+[06:00:10]  ========================================== 
+[06:00:10]  |                                        | 
+[06:00:10]  |  Missing YSI scriptfiles directories:  | 
+[06:00:10]  |                                        | 
+[06:00:10]  |      /scriptfiles/YSI/fixes/           | 
+[06:00:10]  |      /scriptfiles/YSI/temp/            | 
+[06:00:10]  |                                        | 
+[06:00:10]  ========================================== 
+[06:00:10]  |                                        | 
+[06:00:10]  |   Generating code, this may take a     | 
+[06:00:10]  |  little bit of time.  Note that this   | 
+[06:00:10]  |  code generation works best with the   | 
+[06:00:10]  |     JIT plugin, which you are not      | 
+[06:00:10]  |     currently using.  Get it here:     | 
+[06:00:10]  |                                        | 
+[06:00:10]  |       https://git.io/jit-plugin        | 
+[06:00:10]  |                                        | 
+[06:00:10]  |             Please wait...             | 
+[06:00:10]  |                                        | 
+[06:00:10]  |             Done in 10ms!              | 
+[06:00:10]  |                                        | 
+[06:00:10]  ========================================== 
+[06:00:10] *** YSI Warning: Could not load RconCommand/ClientCheckResponse fix FS.
+[06:00:10] *** YSI Info: Ignore this error if the FS already loaded.
+[06:00:10] *** YSI Info: Script ID: 1
+[06:00:10] *** YSI Warning: Could not load RconCommand/ClientCheckResponse fix FS.
+[06:00:10] *** YSI Info: Ignore this error if the FS already loaded.
+[06:00:10]  |                                        | 
+[06:00:10]  | Server:      0.3.7-R2 (W)              | 
+[06:00:10]  | Started:     16 Dec 2023 - 06:00:10    | 
+[06:00:10]  |                                        | 
+[06:00:10]  | Compiler:    3.10.10 (Windows)         | 
+[06:00:10]  | Includes:    0.3DL                     | 
+[06:00:10]  | Codepage:    <none>                    | 
+[06:00:10]  | Built:       16 Dec 2023 - 05:59:53    | 
+[06:00:10]  |                                        | 
+[06:00:10]  | YSI:         v05.09.0982               | 
+[06:00:10]  | Master:      1                         | 
+[06:00:10]  |                                        | 
+[06:00:10]  | JIT:         <none>                    | 
+[06:00:10]  | Crashdetect: <none>                    | 
+[06:00:10]  |                                        | 
+[06:00:10]  ========================================== 
+[06:00:10]  
+[06:00:10]  
+[06:00:10] Number of vehicle models: 0
+[06:01:01] [connection] incoming connection: 127.0.0.1:55206 id: 0
+[06:01:01] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:05:04] 
+[06:05:04] Server Plugins
+[06:05:04] --------------
+[06:05:04]  Loading plugin: samp_bcrypt
+[06:05:04] [SampBcrypt] [info]: Version: 0.4.0
+[06:05:04]   Loaded.
+[06:05:04]  Loading plugin: streamer
+[06:05:04] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[06:05:04]   Loaded.
+[06:05:04]  Loading plugin: mysql
+[06:05:04]  >> plugin.mysql: R41-4 successfully loaded.
+[06:05:04]   Loaded.
+[06:05:04]  Loading plugin: sscanf
+[06:05:04] 
+[06:05:04]  ===============================
+[06:05:04] 
+[06:05:04]       sscanf plugin loaded.     
+[06:05:04] 
+[06:05:04]          Version: 2.13.8
+[06:05:04] 
+[06:05:04]    (c) 2022 Alex "Y_Less" Cole  
+[06:05:04] 
+[06:05:04]  ===============================
+[06:05:04] 
+[06:05:04]   Loaded.
+[06:05:04]  Loaded 4 plugins.
+
+[06:05:04] 
+[06:05:04] Filterscripts
+[06:05:04] ---------------
+[06:05:04]   Loaded 0 filterscripts.
+
+[06:05:04] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[06:05:04]  
+[06:05:04]  
+[06:05:04]          ==============================================================
+[06:05:04]          |                                                            |
+[06:05:04]          |                                                            |
+[06:05:04]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[06:05:04]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[06:05:04]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[06:05:04]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[06:05:04]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[06:05:04]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[06:05:04]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[06:05:04]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[06:05:04]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[06:05:04]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[06:05:04]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:05:04]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:05:04]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[06:05:04]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[06:05:04]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[06:05:04]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[06:05:04]          |                                                            |
+[06:05:04]          |                                                            |
+[06:05:04]          |                      (c) 2021 MPL v1.1                     |
+[06:05:04]          |            Alex "Y_Less" Cole and contributors.            |
+[06:05:04]          |                                                            |
+[06:05:04]          |                                                            |
+[06:05:04]          ==============================================================
+[06:05:04]  
+[06:05:04]  
+[06:05:04]  ========================================== 
+[06:05:04]  |                                        | 
+[06:05:04]  |  Missing YSI scriptfiles directories:  | 
+[06:05:04]  |                                        | 
+[06:05:04]  |      /scriptfiles/YSI/fixes/           | 
+[06:05:04]  |      /scriptfiles/YSI/temp/            | 
+[06:05:04]  |                                        | 
+[06:05:04]  ========================================== 
+[06:05:04]  |                                        | 
+[06:05:04]  |   Generating code, this may take a     | 
+[06:05:04]  |  little bit of time.  Note that this   | 
+[06:05:04]  |  code generation works best with the   | 
+[06:05:04]  |     JIT plugin, which you are not      | 
+[06:05:04]  |     currently using.  Get it here:     | 
+[06:05:04]  |                                        | 
+[06:05:04]  |       https://git.io/jit-plugin        | 
+[06:05:04]  |                                        | 
+[06:05:04]  |             Please wait...             | 
+[06:05:04]  |                                        | 
+[06:05:04]  |             Done in 11ms!              | 
+[06:05:04]  |                                        | 
+[06:05:04]  ========================================== 
+[06:05:04]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[06:05:04] *** YSI Info: Script ID: 1
+[06:05:04]  |                                        | 
+[06:05:04]  | Server:      0.3.7-R2 (W)              | 
+[06:05:04]  | Started:     16 Dec 2023 - 06:05:04    | 
+[06:05:04]  |                                        | 
+[06:05:04]  | Compiler:    3.10.10 (Windows)         | 
+[06:05:04]  | Includes:    0.3DL                     | 
+[06:05:04]  | Codepage:    <none>                    | 
+[06:05:04]  | Built:       16 Dec 2023 - 06:05:00    | 
+[06:05:04]  |                                        | 
+[06:05:04]  | YSI:         v05.09.0982               | 
+[06:05:04]  | Master:      1                         | 
+[06:05:04]  |                                        | 
+[06:05:04]  | JIT:         <none>                    | 
+[06:05:04]  | Crashdetect: <none>                    | 
+[06:05:04]  |                                        | 
+[06:05:04]  ========================================== 
+[06:05:04]  
+[06:05:04]  
+[06:05:04] Number of vehicle models: 0
+[06:05:33] [connection] incoming connection: 127.0.0.1:65077 id: 0
+[06:05:33] [join] Joaco has joined the server (0:127.0.0.1)
+[06:11:29] --- Server Shutting Down.
+[06:11:29] [part] Joaco has left the server (0:0)
+[06:11:30] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[06:11:30] plugin.mysql: Unloading plugin...
+[06:11:30] plugin.mysql: Plugin unloaded.
+[06:11:30] 
+[06:11:30]  ===============================
+[06:11:30] 
+[06:11:30]      sscanf plugin unloaded.    
+[06:11:30] 
+[06:11:30]  ===============================
+[06:11:30] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:11:32] 
+[06:11:32] Server Plugins
+[06:11:32] --------------
+[06:11:32]  Loading plugin: samp_bcrypt
+[06:11:32] [SampBcrypt] [info]: Version: 0.4.0
+[06:11:32]   Loaded.
+[06:11:32]  Loading plugin: streamer
+[06:11:32] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[06:11:32]   Loaded.
+[06:11:32]  Loading plugin: mysql
+[06:11:32]  >> plugin.mysql: R41-4 successfully loaded.
+[06:11:32]   Loaded.
+[06:11:32]  Loading plugin: sscanf
+[06:11:32] 
+[06:11:32]  ===============================
+[06:11:32] 
+[06:11:32]       sscanf plugin loaded.     
+[06:11:32] 
+[06:11:32]          Version: 2.13.8
+[06:11:32] 
+[06:11:32]    (c) 2022 Alex "Y_Less" Cole  
+[06:11:32] 
+[06:11:32]  ===============================
+[06:11:32] 
+[06:11:32]   Loaded.
+[06:11:32]  Loaded 4 plugins.
+
+[06:11:32] 
+[06:11:32] Filterscripts
+[06:11:32] ---------------
+[06:11:32]   Loading filterscript 'cameraeditor.amx'...
+[06:11:32] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[06:11:32]  
+[06:11:32]  
+[06:11:32]          ==============================================================
+[06:11:32]          |                                                            |
+[06:11:32]          |                                                            |
+[06:11:32]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[06:11:32]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[06:11:32]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[06:11:32]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[06:11:32]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[06:11:32]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[06:11:32]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[06:11:32]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[06:11:32]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[06:11:32]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[06:11:32]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:11:32]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:11:32]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[06:11:32]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[06:11:32]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[06:11:32]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[06:11:32]          |                                                            |
+[06:11:32]          |                                                            |
+[06:11:32]          |                      (c) 2021 MPL v1.1                     |
+[06:11:32]          |            Alex "Y_Less" Cole and contributors.            |
+[06:11:32]          |                                                            |
+[06:11:32]          |                                                            |
+[06:11:32]          ==============================================================
+[06:11:32]  
+[06:11:32]  
+[06:11:32]  ========================================== 
+[06:11:32]  |                                        | 
+[06:11:32]  |  Missing YSI scriptfiles directories:  | 
+[06:11:32]  |                                        | 
+[06:11:32]  |      /scriptfiles/YSI/fixes/           | 
+[06:11:32]  |      /scriptfiles/YSI/temp/            | 
+[06:11:32]  |                                        | 
+[06:11:32]  ========================================== 
+[06:11:32]  |                                        | 
+[06:11:32]  |   Generating code, this may take a     | 
+[06:11:32]  |  little bit of time.  Note that this   | 
+[06:11:32]  |  code generation works best with the   | 
+[06:11:32]  |     JIT plugin, which you are not      | 
+[06:11:32]  |     currently using.  Get it here:     | 
+[06:11:32]  |                                        | 
+[06:11:32]  |       https://git.io/jit-plugin        | 
+[06:11:32]  |                                        | 
+[06:11:32]  |             Please wait...             | 
+[06:11:32]  |                                        | 
+[06:11:32]  |             Done in 12ms!              | 
+[06:11:32]  |                                        | 
+[06:11:32]  ========================================== 
+[06:11:32] *** YSI Info: Script ID: 1
+[06:11:32] Unknown command or variable:
+  fixes_onclientcheckresponse
+[06:11:32]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[06:11:32]  |                                        | 
+[06:11:32]  | Server:      0.3.7-R2 (W)              | 
+[06:11:32]  | Started:     16 Dec 2023 - 06:11:32    | 
+[06:11:32]  |                                        | 
+[06:11:32]  | Compiler:    3.10.10 (Windows)         | 
+[06:11:32]  | Includes:    0.3DL                     | 
+[06:11:32]  | Codepage:    <none>                    | 
+[06:11:32]  | Built:       16 Dec 2023 - 05:44:03    | 
+[06:11:32]  |                                        | 
+[06:11:32]  | YSI:         v05.09.0982               | 
+[06:11:32]  | Master:      1                         | 
+[06:11:32]  |                                        | 
+[06:11:32]  | JIT:         <none>                    | 
+[06:11:32]  | Crashdetect: <none>                    | 
+[06:11:32]  |                                        | 
+[06:11:32]  ========================================== 
+[06:11:32]  
+[06:11:32]  
+[06:11:32] 
+--------------------------------------
+[06:11:32]  Camera Editor loaded! Created by: Flashiee/UnuAlex
+[06:11:32] --------------------------------------
+
+[06:11:32]   Loading filterscript 'Éæu.amx'...
+[06:11:32]   Unable to load filterscript '.amx'.
+[06:11:32]   Loaded 1 filterscripts.
+
+[06:11:32] Conexión establecida a la base de datos.
+[06:11:32] Hello frikin well
+[06:11:32] Number of vehicle models: 0
+[06:12:11] [connection] incoming connection: 127.0.0.1:63961 id: 0
+[06:12:11] [join] Joaco has joined the server (0:127.0.0.1)
+[06:12:20] [part] Joaco has left the server (0:1)
+[06:12:24] --- Server Shutting Down.
+[06:12:24] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[06:12:24] plugin.mysql: Unloading plugin...
+[06:12:24] plugin.mysql: Plugin unloaded.
+[06:12:24] 
+[06:12:24]  ===============================
+[06:12:24] 
+[06:12:24]      sscanf plugin unloaded.    
+[06:12:24] 
+[06:12:24]  ===============================
+[06:12:24] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:13:08] 
+[06:13:08] Server Plugins
+[06:13:08] --------------
+[06:13:08]  Loading plugin: samp_bcrypt
+[06:13:08] [SampBcrypt] [info]: Version: 0.4.0
+[06:13:08]   Loaded.
+[06:13:08]  Loading plugin: streamer
+[06:13:08] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[06:13:08]   Loaded.
+[06:13:08]  Loading plugin: mysql
+[06:13:08]  >> plugin.mysql: R41-4 successfully loaded.
+[06:13:08]   Loaded.
+[06:13:08]  Loading plugin: sscanf
+[06:13:08] 
+[06:13:08]  ===============================
+[06:13:08] 
+[06:13:08]       sscanf plugin loaded.     
+[06:13:08] 
+[06:13:08]          Version: 2.13.8
+[06:13:08] 
+[06:13:08]    (c) 2022 Alex "Y_Less" Cole  
+[06:13:08] 
+[06:13:08]  ===============================
+[06:13:08] 
+[06:13:08]   Loaded.
+[06:13:08]  Loaded 4 plugins.
+
+[06:13:08] 
+[06:13:08] Filterscripts
+[06:13:08] ---------------
+[06:13:08]   Loading filterscript 'cameraeditor.amx'...
+[06:13:08] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[06:13:08]  
+[06:13:08]  
+[06:13:08]          ==============================================================
+[06:13:08]          |                                                            |
+[06:13:08]          |                                                            |
+[06:13:08]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[06:13:08]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[06:13:08]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[06:13:08]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[06:13:08]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[06:13:08]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[06:13:08]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[06:13:08]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[06:13:08]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[06:13:08]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[06:13:08]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:13:08]          |           Y:::::Y                    S:::::S   I::::I      |
+[06:13:08]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[06:13:08]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[06:13:08]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[06:13:08]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[06:13:08]          |                                                            |
+[06:13:08]          |                                                            |
+[06:13:08]          |                      (c) 2021 MPL v1.1                     |
+[06:13:08]          |            Alex "Y_Less" Cole and contributors.            |
+[06:13:08]          |                                                            |
+[06:13:08]          |                                                            |
+[06:13:08]          ==============================================================
+[06:13:08]  
+[06:13:08]  
+[06:13:08]  ========================================== 
+[06:13:08]  |                                        | 
+[06:13:08]  |  Missing YSI scriptfiles directories:  | 
+[06:13:08]  |                                        | 
+[06:13:08]  |      /scriptfiles/YSI/fixes/           | 
+[06:13:08]  |      /scriptfiles/YSI/temp/            | 
+[06:13:08]  |                                        | 
+[06:13:08]  ========================================== 
+[06:13:08]  |                                        | 
+[06:13:08]  |   Generating code, this may take a     | 
+[06:13:08]  |  little bit of time.  Note that this   | 
+[06:13:08]  |  code generation works best with the   | 
+[06:13:08]  |     JIT plugin, which you are not      | 
+[06:13:08]  |     currently using.  Get it here:     | 
+[06:13:08]  |                                        | 
+[06:13:08]  |       https://git.io/jit-plugin        | 
+[06:13:08]  |                                        | 
+[06:13:08]  |             Please wait...             | 
+[06:13:08]  |                                        | 
+[06:13:08]  |             Done in 10ms!              | 
+[06:13:08]  |                                        | 
+[06:13:08]  ========================================== 
+[06:13:08] *** YSI Info: Script ID: 1
+[06:13:08] Unknown command or variable:
+  fixes_onclientcheckresponse
+[06:13:08]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[06:13:08]  |                                        | 
+[06:13:08]  | Server:      0.3.7-R2 (W)              | 
+[06:13:08]  | Started:     16 Dec 2023 - 06:13:08    | 
+[06:13:08]  |                                        | 
+[06:13:08]  | Compiler:    3.10.10 (Windows)         | 
+[06:13:08]  | Includes:    0.3DL                     | 
+[06:13:08]  | Codepage:    <none>                    | 
+[06:13:08]  | Built:       16 Dec 2023 - 05:44:03    | 
+[06:13:08]  |                                        | 
+[06:13:08]  | YSI:         v05.09.0982               | 
+[06:13:08]  | Master:      1                         | 
+[06:13:08]  |                                        | 
+[06:13:08]  | JIT:         <none>                    | 
+[06:13:08]  | Crashdetect: <none>                    | 
+[06:13:08]  |                                        | 
+[06:13:08]  ========================================== 
+[06:13:08]  
+[06:13:08]  
+[06:13:08] 
+--------------------------------------
+[06:13:08]  Camera Editor loaded! Created by: Flashiee/UnuAlex
+[06:13:08] --------------------------------------
+
+[06:13:08]   Loading filterscript 'Éæu.amx'...
+[06:13:08]   Unable to load filterscript '.amx'.
+[06:13:08]   Loaded 1 filterscripts.
+
+[06:13:08] Conexión establecida a la base de datos.
+[06:13:08] Hello frikin well
+[06:13:08] Number of vehicle models: 0
+[06:13:30] [connection] incoming connection: 127.0.0.1:65037 id: 0
+[06:13:30] [join] Joaco has joined the server (0:127.0.0.1)
+[06:14:59] [part] Joaco has left the server (0:1)

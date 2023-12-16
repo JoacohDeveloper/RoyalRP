@@ -1,3 +1,4 @@
+#define SCM SendClientMessage
 
 stock Float:setHealth(playerid, Float:health) {
 
@@ -5,7 +6,6 @@ stock Float:setHealth(playerid, Float:health) {
 	return health;
 }
 //User[playerid][Health] = setHealth(playerid, 33.45); - Modo de uso.
-
 
 stock getPlayerUsername(playerid) {
 	new username[45];

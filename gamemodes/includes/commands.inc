@@ -1,6 +1,6 @@
 
 #include <zcmd>
-#include <sscanf2>
+// #include <sscanf2>
 
 // CMD:saludar(playerid){
 
@@ -41,27 +41,27 @@
 // }
 
 
-
-
+CMD:vida(playerid) {
+	if(!IsPlayerConnected(playerid) || playerid == INVALID_PLAYER_ID) return 0;
+	
+	User[playerid][Health] = setHealth(playerid, 50.0);
+	SCM(playerid, -1, "Your Health has been changed by 50");
+	return 1;
+}
 
 CMD:cinematica(playerid) {
 
 
-	new objectId = CreateObject(13, -812.2347, 2221.4792, 134.2138, 0.0, 0.0, 0.0);
-	AttachCameraToObject(playerid, objectId);
-	MoveObject(objectId, -742.6212, 1897.6364, 27.7391, 60000, 0, 0, 0);
+	SetPlayerCameraPos(playerid,132.000000,-67.291427,1.578125);
+	SetPlayerCameraLookAt(playerid,137.000000,-67.291427,1.578125);
+	SetPlayerCameraPos(playerid,132.000000,-67.291427,1.578125);
+	SetPlayerCameraLookAt(playerid,137.000000,-67.291427,1.578125);
+	InterpolateCameraPos(playerid,132.000000,-67.291427,1.578125,296.909515,-67.291427,1.578125,30000,CAMERA_MOVE);
+	InterpolateCameraLookAt(playerid,137.000000,-67.291427,1.578125,308.819641,-67.291427,1.578125,1000,CAMERA_MOVE);
 
-	SetTimerEx("cinematic", 0, true, "ii", playerid, objectId);
 	return 1;
 }
 
-
-forward cinematic(playerid, objectid);
-public cinematic(playerid, objectid) {
-	AttachCameraToObject(playerid, objectid);
-	return 1;
-
-}
 
 
 public OnObjectMoved(objectid) {
