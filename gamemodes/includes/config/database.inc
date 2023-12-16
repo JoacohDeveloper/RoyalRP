@@ -1,4 +1,4 @@
-#include "a_mysql"
+#include <a_mysql>
 #define DB_HOST "127.0.0.1"
 #define DB_USER "root"
 #define DB_PASS "1248"
@@ -14,7 +14,7 @@ public dbConn() {
 	mysql_set_option(options, SERVER_PORT, DB_PORT);
 	mysql = mysql_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME, options);
 
-	if(mysql_errno() != 0) {
+	if(mysql_errno() != 0 || mysql == MYSQL_INVALID_HANDLE) {
 		SendRconCommand("exit");
 	} else {
 		print("Conexión establecida a la base de datos.");

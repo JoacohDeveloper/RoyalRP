@@ -661,3 +661,2410 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [17:56:02] Number of vehicle models: 0
 [17:56:02] hello world
 [17:56:02] hash : $2y$12$dU.pgXr20cukq1VHRC/Vme0mEWSXeid6ln9.7oPhNtEfObPBaQLLe
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:20:45] 
+[22:20:45] Server Plugins
+[22:20:45] --------------
+[22:20:45]  Loading plugin: streamer.dll
+[22:20:45] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:20:45]   Loaded.
+[22:20:45]  Loading plugin: mysql.dll
+[22:20:45]  >> plugin.mysql: R41-4 successfully loaded.
+[22:20:45]   Loaded.
+[22:20:45]  Loading plugin: sscanf.dll
+[22:20:45] 
+[22:20:45]  ===============================
+[22:20:45] 
+[22:20:45]       sscanf plugin loaded.     
+[22:20:45] 
+[22:20:45]          Version: 2.13.8
+[22:20:45] 
+[22:20:45]    (c) 2022 Alex "Y_Less" Cole  
+[22:20:45] 
+[22:20:45]  ===============================
+[22:20:45] 
+[22:20:45]   Loaded.
+[22:20:45]  Loading plugin: samp_bcrypt.dll
+[22:20:45] [SampBcrypt] [info]: Version: 0.4.0
+[22:20:45]   Loaded.
+[22:20:45]  Loaded 4 plugins.
+
+[22:20:45] 
+[22:20:45] Filterscripts
+[22:20:45] ---------------
+[22:20:45]   Loaded 0 filterscripts.
+
+[22:20:45] Conexión establecida a la base de datos.
+[22:20:45] Hello frikin well
+[22:20:45] Saludando...
+[22:20:45] Number of vehicle models: 0
+[22:20:45] hello world
+[22:20:45] hash : $2y$12$uQMKTealtU0h4x93TrEoRecPVkoclJUC6SSKQpxs1sVDEq81xqEZu
+[22:21:08] [connection] incoming connection: 127.0.0.1:58032 id: 0
+[22:21:08] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:26:04] 
+[22:26:04] Server Plugins
+[22:26:04] --------------
+[22:26:04]  Loading plugin: streamer.dll
+[22:26:04] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:26:04]   Loaded.
+[22:26:04]  Loading plugin: mysql.dll
+[22:26:04]  >> plugin.mysql: R41-4 successfully loaded.
+[22:26:04]   Loaded.
+[22:26:04]  Loading plugin: sscanf.dll
+[22:26:04] 
+[22:26:04]  ===============================
+[22:26:04] 
+[22:26:04]       sscanf plugin loaded.     
+[22:26:04] 
+[22:26:04]          Version: 2.13.8
+[22:26:04] 
+[22:26:04]    (c) 2022 Alex "Y_Less" Cole  
+[22:26:04] 
+[22:26:04]  ===============================
+[22:26:04] 
+[22:26:04]   Loaded.
+[22:26:04]  Loading plugin: samp_bcrypt.dll
+[22:26:04] [SampBcrypt] [info]: Version: 0.4.0
+[22:26:04]   Loaded.
+[22:26:04]  Loaded 4 plugins.
+
+[22:26:04] 
+[22:26:04] Filterscripts
+[22:26:04] ---------------
+[22:26:04]   Loaded 0 filterscripts.
+
+[22:26:04] Conexión establecida a la base de datos.
+[22:26:04] Hello frikin well
+[22:26:04] Saludando...
+[22:26:04] Number of vehicle models: 0
+[22:26:04] hello world
+[22:26:04] hash : $2y$12$eRcvOSHyqy7Hohe7BV3W0utn7/tmIWSNLIGmrEkNaTHAgSe1UTDhG
+[22:26:15] [connection] incoming connection: 127.0.0.1:60929 id: 0
+[22:26:15] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:29:10] 
+[22:29:10] Server Plugins
+[22:29:10] --------------
+[22:29:10]  Loading plugin: streamer.dll
+[22:29:10] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:29:10]   Loaded.
+[22:29:10]  Loading plugin: mysql.dll
+[22:29:10]  >> plugin.mysql: R41-4 successfully loaded.
+[22:29:10]   Loaded.
+[22:29:10]  Loading plugin: sscanf.dll
+[22:29:10] 
+[22:29:10]  ===============================
+[22:29:10] 
+[22:29:10]       sscanf plugin loaded.     
+[22:29:10] 
+[22:29:10]          Version: 2.13.8
+[22:29:10] 
+[22:29:10]    (c) 2022 Alex "Y_Less" Cole  
+[22:29:10] 
+[22:29:10]  ===============================
+[22:29:10] 
+[22:29:10]   Loaded.
+[22:29:10]  Loading plugin: samp_bcrypt.dll
+[22:29:10] [SampBcrypt] [info]: Version: 0.4.0
+[22:29:10]   Loaded.
+[22:29:10]  Loaded 4 plugins.
+
+[22:29:10] 
+[22:29:10] Filterscripts
+[22:29:10] ---------------
+[22:29:10]   Loaded 0 filterscripts.
+
+[22:29:10] Conexión establecida a la base de datos.
+[22:29:10] Hello frikin well
+[22:29:10] Saludando...
+[22:29:10] Number of vehicle models: 0
+[22:29:11] hello world
+[22:29:11] hash : $2y$12$quXLy1fnHhiNd60J9ic/WOiI3HQ5nkyHzvczkY9iESxpQgoMbH1yq
+[22:29:28] [connection] incoming connection: 127.0.0.1:52746 id: 0
+[22:29:28] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:35:04] 
+[22:35:04] Server Plugins
+[22:35:04] --------------
+[22:35:04]  Loading plugin: streamer.dll
+[22:35:04] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:35:04]   Loaded.
+[22:35:04]  Loading plugin: mysql.dll
+[22:35:04]  >> plugin.mysql: R41-4 successfully loaded.
+[22:35:04]   Loaded.
+[22:35:04]  Loading plugin: sscanf.dll
+[22:35:04] 
+[22:35:04]  ===============================
+[22:35:04] 
+[22:35:04]       sscanf plugin loaded.     
+[22:35:04] 
+[22:35:04]          Version: 2.13.8
+[22:35:04] 
+[22:35:04]    (c) 2022 Alex "Y_Less" Cole  
+[22:35:04] 
+[22:35:04]  ===============================
+[22:35:04] 
+[22:35:04]   Loaded.
+[22:35:04]  Loading plugin: samp_bcrypt.dll
+[22:35:04] [SampBcrypt] [info]: Version: 0.4.0
+[22:35:04]   Loaded.
+[22:35:04]  Loaded 4 plugins.
+
+[22:35:04] 
+[22:35:04] Filterscripts
+[22:35:04] ---------------
+[22:35:04]   Loaded 0 filterscripts.
+
+[22:35:04] Conexión establecida a la base de datos.
+[22:35:04] Hello frikin well
+[22:35:04] Saludando...
+[22:35:04] Number of vehicle models: 0
+[22:35:04] hello world
+[22:35:04] hash : $2y$12$Ov4.SryY.G634nb57zf.Y.TwFtoUzY52HoDgChRMw0hD/X1cYV6J.
+[22:35:14] [connection] incoming connection: 127.0.0.1:52033 id: 0
+[22:35:14] [join] Joaco has joined the server (0:127.0.0.1)
+[22:35:21] 1
+[22:35:31] 2
+[22:35:32] 3
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:38:58] 
+[22:38:58] Server Plugins
+[22:38:58] --------------
+[22:38:58]  Loading plugin: streamer.dll
+[22:38:58] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:38:58]   Loaded.
+[22:38:58]  Loading plugin: mysql.dll
+[22:38:58]  >> plugin.mysql: R41-4 successfully loaded.
+[22:38:58]   Loaded.
+[22:38:58]  Loading plugin: sscanf.dll
+[22:38:58] 
+[22:38:58]  ===============================
+[22:38:58] 
+[22:38:58]       sscanf plugin loaded.     
+[22:38:58] 
+[22:38:58]          Version: 2.13.8
+[22:38:58] 
+[22:38:58]    (c) 2022 Alex "Y_Less" Cole  
+[22:38:58] 
+[22:38:58]  ===============================
+[22:38:58] 
+[22:38:58]   Loaded.
+[22:38:58]  Loading plugin: samp_bcrypt.dll
+[22:38:58] [SampBcrypt] [info]: Version: 0.4.0
+[22:38:58]   Loaded.
+[22:38:58]  Loaded 4 plugins.
+
+[22:38:58] 
+[22:38:58] Filterscripts
+[22:38:58] ---------------
+[22:38:58]   Loaded 0 filterscripts.
+
+[22:38:58] *** Streamer Plugin: The include file version (0x27201) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:38:58] Script[gamemodes/cameraeditor.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:38:58] Number of vehicle models: 0
+[22:39:18] [connection] incoming connection: 127.0.0.1:63830 id: 0
+[22:39:18] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:35] 
+[22:49:35] Server Plugins
+[22:49:35] --------------
+[22:49:35]  Loading plugin: streamer.dll
+[22:49:35] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:49:35]   Loaded.
+[22:49:35]  Loading plugin: mysql.dll
+[22:49:35]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:35]   Loaded.
+[22:49:35]  Loading plugin: sscanf.dll
+[22:49:35] 
+[22:49:35]  ===============================
+[22:49:35] 
+[22:49:35]       sscanf plugin loaded.     
+[22:49:35] 
+[22:49:35]          Version: 2.13.8
+[22:49:35] 
+[22:49:35]    (c) 2022 Alex "Y_Less" Cole  
+[22:49:35] 
+[22:49:35]  ===============================
+[22:49:35] 
+[22:49:35]   Loaded.
+[22:49:35]  Loading plugin: samp_bcrypt.dll
+[22:49:35] [SampBcrypt] [info]: Version: 0.4.0
+[22:49:35]   Loaded.
+[22:49:35]  Loaded 4 plugins.
+
+[22:49:35] 
+[22:49:35] Filterscripts
+[22:49:35] ---------------
+[22:49:35]   Loaded 0 filterscripts.
+
+[22:49:35] *** Streamer Plugin: The include file version (0x27201) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:49:35] Script[gamemodes/cameraeditor.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:49:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:51:21] 
+[22:51:21] Server Plugins
+[22:51:21] --------------
+[22:51:21]  Loading plugin: streamer.dll
+[22:51:21] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:51:21]   Loaded.
+[22:51:21]  Loading plugin: mysql.dll
+[22:51:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:51:21]   Loaded.
+[22:51:21]  Loading plugin: sscanf.dll
+[22:51:21] 
+[22:51:21]  ===============================
+[22:51:21] 
+[22:51:21]       sscanf plugin loaded.     
+[22:51:21] 
+[22:51:21]          Version: 2.13.8
+[22:51:21] 
+[22:51:21]    (c) 2022 Alex "Y_Less" Cole  
+[22:51:21] 
+[22:51:21]  ===============================
+[22:51:21] 
+[22:51:21]   Loaded.
+[22:51:21]  Loading plugin: samp_bcrypt.dll
+[22:51:21] [SampBcrypt] [info]: Version: 0.4.0
+[22:51:21]   Loaded.
+[22:51:21]  Loaded 4 plugins.
+
+[22:51:21] 
+[22:51:21] Filterscripts
+[22:51:21] ---------------
+[22:51:21]   Loaded 0 filterscripts.
+
+[22:51:21] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[22:51:21] Script[gamemodes/cameraeditor.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:51:21] Number of vehicle models: 0
+[22:51:29] [connection] incoming connection: 127.0.0.1:51684 id: 0
+[22:51:30] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:11] 
+[22:57:11] Server Plugins
+[22:57:11] --------------
+[22:57:11]  Loading plugin: streamer.dll
+[22:57:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:57:11]   Loaded.
+[22:57:11]  Loading plugin: mysql.dll
+[22:57:11]  >> plugin.mysql: R41-4 successfully loaded.
+[22:57:11]   Loaded.
+[22:57:11]  Loading plugin: sscanf.dll
+[22:57:11] 
+[22:57:11]  ===============================
+[22:57:11] 
+[22:57:11]       sscanf plugin loaded.     
+[22:57:11] 
+[22:57:11]          Version: 2.13.8
+[22:57:11] 
+[22:57:11]    (c) 2022 Alex "Y_Less" Cole  
+[22:57:11] 
+[22:57:11]  ===============================
+[22:57:11] 
+[22:57:11]   Loaded.
+[22:57:11]  Loading plugin: samp_bcrypt.dll
+[22:57:11] [SampBcrypt] [info]: Version: 0.4.0
+[22:57:11]   Loaded.
+[22:57:11]  Loaded 4 plugins.
+
+[22:57:11] 
+[22:57:11] Filterscripts
+[22:57:11] ---------------
+[22:57:11]   Loaded 0 filterscripts.
+
+[22:57:11] Script[gamemodes/CameraEditor.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[22:57:11] Number of vehicle models: 0
+[22:58:00] [connection] incoming connection: 127.0.0.1:57838 id: 0
+[22:58:01] [join] Joaco has joined the server (0:127.0.0.1)
+[22:58:06] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:08:54] language = ""  (string)
+[23:08:54] 
+[23:08:54] Server Plugins
+[23:08:54] --------------
+[23:08:54]  Loading plugin: sscanf
+[23:08:54] 
+[23:08:54]  ===============================
+[23:08:54] 
+[23:08:54]       sscanf plugin loaded.     
+[23:08:54] 
+[23:08:54]          Version: 2.13.8
+[23:08:54] 
+[23:08:54]    (c) 2022 Alex "Y_Less" Cole  
+[23:08:54] 
+[23:08:54]  ===============================
+[23:08:54] 
+[23:08:54]   Loaded.
+[23:08:54]  Loading plugin: mysql
+[23:08:54]   Failed.
+[23:08:54]  Loading plugin: samp_bcrypt
+[23:08:54] [SampBcrypt] [info]: Version: 0.4.0
+[23:08:54]   Loaded.
+[23:08:54]  Loaded 2 plugins.
+
+[23:08:54] 
+[23:08:54] Filterscripts
+[23:08:54] ---------------
+[23:08:54]   Loaded 0 filterscripts.
+
+[23:08:54] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:08:54] Number of vehicle models: 0
+[23:09:05] [connection] incoming connection: 127.0.0.1:49847 id: 0
+[23:09:05] [join] Joaco has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:11:26] language = ""  (string)
+[23:11:26] 
+[23:11:26] Server Plugins
+[23:11:26] --------------
+[23:11:26]  Loading plugin: sscanf
+[23:11:26] 
+[23:11:26]  ===============================
+[23:11:26] 
+[23:11:26]       sscanf plugin loaded.     
+[23:11:26] 
+[23:11:26]          Version: 2.13.8
+[23:11:26] 
+[23:11:26]    (c) 2022 Alex "Y_Less" Cole  
+[23:11:26] 
+[23:11:26]  ===============================
+[23:11:26] 
+[23:11:26]   Loaded.
+[23:11:26]  Loading plugin: mysql
+[23:11:26]   Failed.
+[23:11:26]  Loading plugin: samp_bcrypt
+[23:11:26] [SampBcrypt] [info]: Version: 0.4.0
+[23:11:26]   Loaded.
+[23:11:26]  Loaded 2 plugins.
+
+[23:11:26] 
+[23:11:26] Filterscripts
+[23:11:26] ---------------
+[23:11:26]   Loaded 0 filterscripts.
+
+[23:11:26] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:11:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:15:25] language = ""  (string)
+[23:15:25] 
+[23:15:25] Server Plugins
+[23:15:25] --------------
+[23:15:25]  Loading plugin: mysql
+[23:15:25]   Failed.
+[23:15:25]  Loading plugin: samp_bcrypt
+[23:15:25] [SampBcrypt] [info]: Version: 0.4.0
+[23:15:25]   Loaded.
+[23:15:25]  Loading plugin: streamer
+[23:15:25] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:15:25]   Loaded.
+[23:15:25]  Loaded 2 plugins.
+
+[23:15:25] 
+[23:15:25] Filterscripts
+[23:15:25] ---------------
+[23:15:25]   Loaded 0 filterscripts.
+
+[23:15:25] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:15:25] Number of vehicle models: 0
+[23:15:49] [connection] incoming connection: 127.0.0.1:62371 id: 0
+[23:15:49] [join] Joaco has joined the server (0:127.0.0.1)
+[23:15:50] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:50] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:50] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:50] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:51] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:15:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:11] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:13] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:52] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:53] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:54] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:59] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[23:17:59] [part] Joaco has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:18:13] language = ""  (string)
+[23:18:13] 
+[23:18:13] Server Plugins
+[23:18:13] --------------
+[23:18:13]  Loading plugin: mysql
+[23:18:13]   Failed.
+[23:18:13]  Loading plugin: samp_bcrypt
+[23:18:13] [SampBcrypt] [info]: Version: 0.4.0
+[23:18:13]   Loaded.
+[23:18:13]  Loading plugin: streamer
+[23:18:13] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:18:13]   Loaded.
+[23:18:13]  Loaded 2 plugins.
+
+[23:18:13] 
+[23:18:13] Filterscripts
+[23:18:13] ---------------
+[23:18:13]   Loaded 0 filterscripts.
+
+[23:18:13] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:18:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:08] language = ""  (string)
+[23:19:08] 
+[23:19:08] Server Plugins
+[23:19:08] --------------
+[23:19:08]  Loading plugin: mysql
+[23:19:08]   Failed.
+[23:19:08]  Loading plugin: samp_bcrypt
+[23:19:08] [SampBcrypt] [info]: Version: 0.4.0
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: streamer
+[23:19:08] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:19:08]   Loaded.
+[23:19:08]  Loaded 2 plugins.
+
+[23:19:08] 
+[23:19:08] Filterscripts
+[23:19:08] ---------------
+[23:19:08]   Loaded 0 filterscripts.
+
+[23:19:08] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:19:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:33] language = ""  (string)
+[23:19:33] 
+[23:19:33] Server Plugins
+[23:19:33] --------------
+[23:19:33]  Loading plugin: mysql
+[23:19:33]   Failed.
+[23:19:33]  Loading plugin: samp_bcrypt
+[23:19:33] [SampBcrypt] [info]: Version: 0.4.0
+[23:19:33]   Loaded.
+[23:19:33]  Loading plugin: streamer
+[23:19:33] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:19:33]   Loaded.
+[23:19:33]  Loaded 2 plugins.
+
+[23:19:33] 
+[23:19:33] Filterscripts
+[23:19:33] ---------------
+[23:19:33]   Loaded 0 filterscripts.
+
+[23:19:33] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:19:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:46] language = ""  (string)
+[23:19:46] 
+[23:19:46] Server Plugins
+[23:19:46] --------------
+[23:19:46]  Loading plugin: mysql
+[23:19:46]   Failed.
+[23:19:46]  Loading plugin: samp_bcrypt
+[23:19:46] [SampBcrypt] [info]: Version: 0.4.0
+[23:19:46]   Loaded.
+[23:19:46]  Loading plugin: streamer
+[23:19:46] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:19:46]   Loaded.
+[23:19:46]  Loaded 2 plugins.
+
+[23:19:46] 
+[23:19:46] Filterscripts
+[23:19:46] ---------------
+[23:19:46]   Loaded 0 filterscripts.
+
+[23:19:46] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:19:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:20:49] 
+[23:20:49] Server Plugins
+[23:20:49] --------------
+[23:20:49]  Loading plugin: mysql
+[23:20:49]   Failed.
+[23:20:49]  Loading plugin: samp_bcrypt
+[23:20:49] [SampBcrypt] [info]: Version: 0.4.0
+[23:20:49]   Loaded.
+[23:20:49]  Loading plugin: streamer
+[23:20:49] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:20:49]   Loaded.
+[23:20:49]  Loaded 2 plugins.
+
+[23:20:49] 
+[23:20:49] Filterscripts
+[23:20:49] ---------------
+[23:20:49]   Loaded 0 filterscripts.
+
+[23:20:49] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:20:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:21:59] 
+[23:21:59] Server Plugins
+[23:21:59] --------------
+[23:21:59]  Loading plugin: mysql
+[23:21:59]   Failed.
+[23:21:59]  Loading plugin: samp_bcrypt
+[23:21:59] [SampBcrypt] [info]: Version: 0.4.0
+[23:21:59]   Loaded.
+[23:21:59]  Loading plugin: streamer
+[23:21:59] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:21:59]   Loaded.
+[23:21:59]  Loaded 2 plugins.
+
+[23:21:59] 
+[23:21:59] Filterscripts
+[23:21:59] ---------------
+[23:21:59]   Loaded 0 filterscripts.
+
+[23:21:59] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:21:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:23:01] 
+[23:23:01] Server Plugins
+[23:23:01] --------------
+[23:23:01]  Loading plugin: mysql
+[23:23:01]   Failed.
+[23:23:01]  Loading plugin: samp_bcrypt
+[23:23:01] [SampBcrypt] [info]: Version: 0.4.0
+[23:23:01]   Loaded.
+[23:23:01]  Loading plugin: streamer
+[23:23:01] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:23:01]   Loaded.
+[23:23:01]  Loaded 2 plugins.
+
+[23:23:01] 
+[23:23:01] Filterscripts
+[23:23:01] ---------------
+[23:23:01]   Loaded 0 filterscripts.
+
+[23:23:01] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:23:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:16] 
+[23:24:16] Server Plugins
+[23:24:16] --------------
+[23:24:16]  Loading plugin: mysql
+[23:24:16]   Failed.
+[23:24:16]  Loading plugin: samp_bcrypt
+[23:24:16] [SampBcrypt] [info]: Version: 0.4.0
+[23:24:16]   Loaded.
+[23:24:16]  Loading plugin: streamer
+[23:24:16] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:24:16]   Loaded.
+[23:24:16]  Loaded 2 plugins.
+
+[23:24:16] 
+[23:24:16] Filterscripts
+[23:24:16] ---------------
+[23:24:16]   Loaded 0 filterscripts.
+
+[23:24:16] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:24:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:25:08] 
+[23:25:08] Server Plugins
+[23:25:08] --------------
+[23:25:08]  Loading plugin: mysql
+[23:25:08]   Failed.
+[23:25:08]  Loading plugin: samp_bcrypt
+[23:25:08] [SampBcrypt] [info]: Version: 0.4.0
+[23:25:08]   Loaded.
+[23:25:08]  Loading plugin: streamer
+[23:25:08] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:25:08]   Loaded.
+[23:25:08]  Loaded 2 plugins.
+
+[23:25:08] 
+[23:25:08] Filterscripts
+[23:25:08] ---------------
+[23:25:08]   Loaded 0 filterscripts.
+
+[23:25:08] Hello frikin well
+[23:25:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:25:32] 
+[23:25:32] Server Plugins
+[23:25:32] --------------
+[23:25:32]  Loading plugin: mysql
+[23:25:32]   Failed.
+[23:25:32]  Loading plugin: samp_bcrypt
+[23:25:32] [SampBcrypt] [info]: Version: 0.4.0
+[23:25:32]   Loaded.
+[23:25:32]  Loading plugin: streamer
+[23:25:32] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:25:32]   Loaded.
+[23:25:32]  Loaded 2 plugins.
+
+[23:25:32] 
+[23:25:32] Filterscripts
+[23:25:32] ---------------
+[23:25:32]   Loaded 0 filterscripts.
+
+[23:25:32] Hello frikin well
+[23:25:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:25:58] 
+[23:25:58] Server Plugins
+[23:25:58] --------------
+[23:25:58]  Loading plugin: mysql
+[23:25:58]   Failed.
+[23:25:58]  Loading plugin: samp_bcrypt
+[23:25:58] [SampBcrypt] [info]: Version: 0.4.0
+[23:25:58]   Loaded.
+[23:25:58]  Loading plugin: streamer
+[23:25:58] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:25:58]   Loaded.
+[23:25:58]  Loaded 2 plugins.
+
+[23:25:58] 
+[23:25:58] Filterscripts
+[23:25:58] ---------------
+[23:25:58]   Loaded 0 filterscripts.
+
+[23:25:58] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:25:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:27:16] 
+[23:27:16] Server Plugins
+[23:27:16] --------------
+[23:27:16]  Loading plugin: mysql
+[23:27:16]   Failed.
+[23:27:16]  Loading plugin: samp_bcrypt
+[23:27:16] [SampBcrypt] [info]: Version: 0.4.0
+[23:27:16]   Loaded.
+[23:27:16]  Loading plugin: streamer
+[23:27:16] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:27:16]   Loaded.
+[23:27:16]  Loaded 2 plugins.
+
+[23:27:16] 
+[23:27:16] Filterscripts
+[23:27:16] ---------------
+[23:27:16]   Loaded 0 filterscripts.
+
+[23:27:16] Hello frikin well
+[23:27:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:27:27] 
+[23:27:27] Server Plugins
+[23:27:27] --------------
+[23:27:27]  Loading plugin: mysql
+[23:27:27]   Failed.
+[23:27:27]  Loading plugin: samp_bcrypt
+[23:27:27] [SampBcrypt] [info]: Version: 0.4.0
+[23:27:27]   Loaded.
+[23:27:27]  Loading plugin: streamer
+[23:27:27] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:27:27]   Loaded.
+[23:27:27]  Loaded 2 plugins.
+
+[23:27:27] 
+[23:27:27] Filterscripts
+[23:27:27] ---------------
+[23:27:27]   Loaded 0 filterscripts.
+
+[23:27:27] Hello frikin well
+[23:27:27] Saludando...
+[23:27:27] Number of vehicle models: 0
+[23:27:27] hello world
+[23:27:27] hash : $2y$12$jYgTulch4GNVgIdRpH8I0Ok9ezy6wGoee5Ui8se68bv67FEaok4f2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:29:39] 
+[23:29:39] Server Plugins
+[23:29:39] --------------
+[23:29:39]  Loading plugin: mysql
+[23:29:39]   Failed.
+[23:29:39]  Loading plugin: samp_bcrypt
+[23:29:39] [SampBcrypt] [info]: Version: 0.4.0
+[23:29:39]   Loaded.
+[23:29:39]  Loading plugin: streamer
+[23:29:39] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:29:39]   Loaded.
+[23:29:39]  Loaded 2 plugins.
+
+[23:29:39] 
+[23:29:39] Filterscripts
+[23:29:39] ---------------
+[23:29:39]   Loaded 0 filterscripts.
+
+[23:29:39] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:29:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:33:20] 
+[23:33:20] Server Plugins
+[23:33:20] --------------
+[23:33:20]  Loading plugin: mysql
+[23:33:20]   Failed.
+[23:33:20]  Loading plugin: samp_bcrypt
+[23:33:20] [SampBcrypt] [info]: Version: 0.4.0
+[23:33:20]   Loaded.
+[23:33:20]  Loading plugin: streamer
+[23:33:20] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:33:20]   Loaded.
+[23:33:20]  Loaded 2 plugins.
+
+[23:33:20] 
+[23:33:20] Filterscripts
+[23:33:20] ---------------
+[23:33:20]   Loaded 0 filterscripts.
+
+[23:33:20] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:33:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:39] 
+[23:34:39] Server Plugins
+[23:34:39] --------------
+[23:34:39]  Loading plugin: mysql
+[23:34:39]   Failed.
+[23:34:39]  Loading plugin: samp_bcrypt
+[23:34:39] [SampBcrypt] [info]: Version: 0.4.0
+[23:34:39]   Loaded.
+[23:34:39]  Loading plugin: streamer
+[23:34:39] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:34:39]   Loaded.
+[23:34:39]  Loaded 2 plugins.
+
+[23:34:39] 
+[23:34:39] Filterscripts
+[23:34:39] ---------------
+[23:34:39]   Loaded 0 filterscripts.
+
+[23:34:39] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:34:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:49] 
+[23:34:49] Server Plugins
+[23:34:49] --------------
+[23:34:49]  Loading plugin: mysql
+[23:34:49]   Failed.
+[23:34:49]  Loading plugin: samp_bcrypt
+[23:34:49] [SampBcrypt] [info]: Version: 0.4.0
+[23:34:49]   Loaded.
+[23:34:49]  Loading plugin: streamer
+[23:34:49] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:34:49]   Loaded.
+[23:34:49]  Loaded 2 plugins.
+
+[23:34:49] 
+[23:34:49] Filterscripts
+[23:34:49] ---------------
+[23:34:49]   Loaded 0 filterscripts.
+
+[23:34:49] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:34:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:37:08] 
+[23:37:08] Server Plugins
+[23:37:08] --------------
+[23:37:08]  Loading plugin: mysql
+[23:37:08]   Failed.
+[23:37:08]  Loading plugin: samp_bcrypt
+[23:37:08] [SampBcrypt] [info]: Version: 0.4.0
+[23:37:08]   Loaded.
+[23:37:08]  Loading plugin: streamer
+[23:37:08] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:37:08]   Loaded.
+[23:37:08]  Loaded 2 plugins.
+
+[23:37:08] 
+[23:37:08] Filterscripts
+[23:37:08] ---------------
+[23:37:08]   Loaded 0 filterscripts.
+
+[23:37:08] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:37:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:37:52] 
+[23:37:52] Server Plugins
+[23:37:52] --------------
+[23:37:52]  Loading plugin: mysql
+[23:37:52]   Failed.
+[23:37:52]  Loading plugin: samp_bcrypt
+[23:37:52] [SampBcrypt] [info]: Version: 0.4.0
+[23:37:52]   Loaded.
+[23:37:52]  Loading plugin: streamer
+[23:37:52] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:37:52]   Loaded.
+[23:37:52]  Loaded 2 plugins.
+
+[23:37:52] 
+[23:37:52] Filterscripts
+[23:37:52] ---------------
+[23:37:52]   Loaded 0 filterscripts.
+
+[23:37:52] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:37:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:39:37] 
+[23:39:37] Server Plugins
+[23:39:37] --------------
+[23:39:37]  Loading plugin: mysql
+[23:39:37]   Failed.
+[23:39:37]  Loading plugin: samp_bcrypt
+[23:39:37] [SampBcrypt] [info]: Version: 0.4.0
+[23:39:37]   Loaded.
+[23:39:37]  Loading plugin: streamer
+[23:39:37] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:39:37]   Loaded.
+[23:39:37]  Loaded 2 plugins.
+
+[23:39:37] 
+[23:39:37] Filterscripts
+[23:39:37] ---------------
+[23:39:37]   Loaded 0 filterscripts.
+
+[23:39:37] Hello frikin well
+[23:39:37] Saludando...
+[23:39:37] Number of vehicle models: 0
+[23:39:38] hello world
+[23:39:38] hash : $2y$12$HlnPAZ9NBPzBOKj3tMH9PO7rF6QIEA/3CBGHuzhBcO2iuhf/EkwyC
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:41:06] 
+[23:41:06] Server Plugins
+[23:41:06] --------------
+[23:41:06]  Loading plugin: mysql
+[23:41:06]   Failed.
+[23:41:06]  Loading plugin: samp_bcrypt
+[23:41:06] [SampBcrypt] [info]: Version: 0.4.0
+[23:41:06]   Loaded.
+[23:41:06]  Loading plugin: streamer
+[23:41:06] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:41:06]   Loaded.
+[23:41:06]  Loaded 2 plugins.
+
+[23:41:06] 
+[23:41:06] Filterscripts
+[23:41:06] ---------------
+[23:41:06]   Loaded 0 filterscripts.
+
+[23:41:06] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:41:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:41:35] 
+[23:41:35] Server Plugins
+[23:41:35] --------------
+[23:41:35]  Loading plugin: mysql
+[23:41:35]   Failed.
+[23:41:35]  Loading plugin: samp_bcrypt
+[23:41:35] [SampBcrypt] [info]: Version: 0.4.0
+[23:41:35]   Loaded.
+[23:41:35]  Loading plugin: streamer
+[23:41:35] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:41:35]   Loaded.
+[23:41:35]  Loaded 2 plugins.
+
+[23:41:35] 
+[23:41:35] Filterscripts
+[23:41:35] ---------------
+[23:41:35]   Loaded 0 filterscripts.
+
+[23:41:35] Hello frikin well
+[23:41:35] Saludando...
+[23:41:35] Number of vehicle models: 0
+[23:41:36] hello world
+[23:41:36] hash : $2y$12$cY9D0ohpz2/8z580LKAPSOJ2oZjE6aMOlT5XAfgb2yJaP6PRsZWYy
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:41:58] 
+[23:41:58] Server Plugins
+[23:41:58] --------------
+[23:41:58]  Loading plugin: mysql
+[23:41:58]   Failed.
+[23:41:58]  Loading plugin: samp_bcrypt
+[23:41:58] [SampBcrypt] [info]: Version: 0.4.0
+[23:41:58]   Loaded.
+[23:41:58]  Loading plugin: streamer
+[23:41:58] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:41:58]   Loaded.
+[23:41:58]  Loaded 2 plugins.
+
+[23:41:58] 
+[23:41:58] Filterscripts
+[23:41:58] ---------------
+[23:41:58]   Loaded 0 filterscripts.
+
+[23:41:58] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:41:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:42:45] 
+[23:42:45] Server Plugins
+[23:42:45] --------------
+[23:42:45]  Loading plugin: mysql
+[23:42:45]   Failed.
+[23:42:45]  Loading plugin: samp_bcrypt
+[23:42:45] [SampBcrypt] [info]: Version: 0.4.0
+[23:42:45]   Loaded.
+[23:42:45]  Loading plugin: streamer
+[23:42:45] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:42:45]   Loaded.
+[23:42:45]  Loaded 2 plugins.
+
+[23:42:45] 
+[23:42:45] Filterscripts
+[23:42:45] ---------------
+[23:42:45]   Loaded 0 filterscripts.
+
+[23:42:45] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:42:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:43:16] 
+[23:43:16] Server Plugins
+[23:43:16] --------------
+[23:43:16]  Loading plugin: mysql
+[23:43:16]   Failed.
+[23:43:16]  Loading plugin: samp_bcrypt
+[23:43:16] [SampBcrypt] [info]: Version: 0.4.0
+[23:43:16]   Loaded.
+[23:43:16]  Loading plugin: streamer
+[23:43:16] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:43:16]   Loaded.
+[23:43:16]  Loaded 2 plugins.
+
+[23:43:16] 
+[23:43:16] Filterscripts
+[23:43:16] ---------------
+[23:43:16]   Loaded 0 filterscripts.
+
+[23:43:16] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:43:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:46:15] 
+[23:46:15] Server Plugins
+[23:46:15] --------------
+[23:46:15]  Loading plugin: mysql
+[23:46:15]   Failed.
+[23:46:15]  Loading plugin: samp_bcrypt
+[23:46:15] [SampBcrypt] [info]: Version: 0.4.0
+[23:46:15]   Loaded.
+[23:46:15]  Loading plugin: streamer
+[23:46:15] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:46:15]   Loaded.
+[23:46:15]  Loaded 2 plugins.
+
+[23:46:15] 
+[23:46:15] Filterscripts
+[23:46:15] ---------------
+[23:46:15]   Loaded 0 filterscripts.
+
+[23:46:15] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[23:46:15] Number of vehicle models: 0
+Console input: sampctl package install RogueDrifter/Anti_cheat_pack
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:00:31] 
+[00:00:31] Server Plugins
+[00:00:31] --------------
+[00:00:31]  Loading plugin: sscanf
+[00:00:31] 
+[00:00:31]  ===============================
+[00:00:31] 
+[00:00:31]       sscanf plugin loaded.     
+[00:00:31] 
+[00:00:31]          Version: 2.13.8
+[00:00:31] 
+[00:00:31]    (c) 2022 Alex "Y_Less" Cole  
+[00:00:31] 
+[00:00:31]  ===============================
+[00:00:31] 
+[00:00:31]   Loaded.
+[00:00:31]  Loading plugin: mysql
+[00:00:31]   Failed.
+[00:00:31]  Loading plugin: samp_bcrypt
+[00:00:31] [SampBcrypt] [info]: Version: 0.4.0
+[00:00:31]   Loaded.
+[00:00:31]  Loading plugin: streamer
+[00:00:31] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:00:31]   Loaded.
+[00:00:31]  Loaded 3 plugins.
+
+[00:00:31] 
+[00:00:31] Filterscripts
+[00:00:31] ---------------
+[00:00:31]   Loaded 0 filterscripts.
+
+[00:00:31] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:00:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:47] 
+[00:11:47] Server Plugins
+[00:11:47] --------------
+[00:11:47]  Loading plugin: sscanf
+[00:11:47] 
+[00:11:47]  ===============================
+[00:11:47] 
+[00:11:47]       sscanf plugin loaded.     
+[00:11:47] 
+[00:11:47]          Version: 2.13.8
+[00:11:47] 
+[00:11:47]    (c) 2022 Alex "Y_Less" Cole  
+[00:11:47] 
+[00:11:47]  ===============================
+[00:11:47] 
+[00:11:47]   Loaded.
+[00:11:47]  Loading plugin: samp_bcrypt
+[00:11:47] [SampBcrypt] [info]: Version: 0.4.0
+[00:11:47]   Loaded.
+[00:11:47]  Loading plugin: streamer
+[00:11:47] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:11:47]   Loaded.
+[00:11:47]  Loading plugin: mysql
+[00:11:47]   Failed.
+[00:11:47]  Loaded 3 plugins.
+
+[00:11:47] 
+[00:11:47] Filterscripts
+[00:11:47] ---------------
+[00:11:47]   Loaded 0 filterscripts.
+
+[00:11:47] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:11:47] Number of vehicle models: 0
+[00:11:59] --- Server Shutting Down.
+[00:11:59] 
+[00:11:59]  ===============================
+[00:11:59] 
+[00:11:59]      sscanf plugin unloaded.    
+[00:11:59] 
+[00:11:59]  ===============================
+[00:11:59] 
+[00:11:59] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:12:05] 
+[00:12:05] Server Plugins
+[00:12:05] --------------
+[00:12:05]  Loading plugin: sscanf
+[00:12:05] 
+[00:12:05]  ===============================
+[00:12:05] 
+[00:12:05]       sscanf plugin loaded.     
+[00:12:05] 
+[00:12:05]          Version: 2.13.8
+[00:12:05] 
+[00:12:05]    (c) 2022 Alex "Y_Less" Cole  
+[00:12:05] 
+[00:12:05]  ===============================
+[00:12:05] 
+[00:12:05]   Loaded.
+[00:12:05]  Loading plugin: samp_bcrypt
+[00:12:05] [SampBcrypt] [info]: Version: 0.4.0
+[00:12:05]   Loaded.
+[00:12:05]  Loading plugin: streamer
+[00:12:05] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:12:05]   Loaded.
+[00:12:05]  Loading plugin: mysql
+[00:12:05]   Failed.
+[00:12:05]  Loaded 3 plugins.
+
+[00:12:05] 
+[00:12:05] Filterscripts
+[00:12:05] ---------------
+[00:12:05]   Loaded 0 filterscripts.
+
+[00:12:05] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:12:05] Number of vehicle models: 0
+[00:12:32] --- Server Shutting Down.
+[00:12:32] 
+[00:12:32]  ===============================
+[00:12:32] 
+[00:12:32]      sscanf plugin unloaded.    
+[00:12:32] 
+[00:12:32]  ===============================
+[00:12:32] 
+[00:12:32] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:26] 
+[00:15:26] Server Plugins
+[00:15:26] --------------
+[00:15:26]  Loading plugin: samp_bcrypt
+[00:15:26] [SampBcrypt] [info]: Version: 0.4.0
+[00:15:26]   Loaded.
+[00:15:26]  Loading plugin: streamer
+[00:15:26] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:15:26]   Loaded.
+[00:15:26]  Loading plugin: mysql
+[00:15:26]  >> plugin.mysql: R41-4 successfully loaded.
+[00:15:26]   Loaded.
+[00:15:26]  Loaded 3 plugins.
+
+[00:15:26] 
+[00:15:26] Filterscripts
+[00:15:26] ---------------
+[00:15:26]   Loaded 0 filterscripts.
+
+[00:15:26] Hello frikin well
+[00:15:26] Saludando...
+[00:15:26] Number of vehicle models: 0
+[00:15:26] hello world
+[00:15:26] hash : $2y$12$nZUkFOgmh4GCZ3sNoAptruwe9xBrpwc0PFHDwor09Bpy9.pIKPEIG
+[00:15:47] --- Server Shutting Down.
+[00:15:47] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:15:47] plugin.mysql: Unloading plugin...
+[00:15:47] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:54] 
+[00:15:54] Server Plugins
+[00:15:54] --------------
+[00:15:54]  Loading plugin: samp_bcrypt
+[00:15:54] [SampBcrypt] [info]: Version: 0.4.0
+[00:15:54]   Loaded.
+[00:15:54]  Loading plugin: streamer
+[00:15:54] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:15:54]   Loaded.
+[00:15:54]  Loading plugin: mysql
+[00:15:54]  >> plugin.mysql: R41-4 successfully loaded.
+[00:15:54]   Loaded.
+[00:15:54]  Loaded 3 plugins.
+
+[00:15:54] 
+[00:15:54] Filterscripts
+[00:15:54] ---------------
+[00:15:54]   Loaded 0 filterscripts.
+
+[00:15:54] Hello frikin well
+[00:15:54] Saludando...
+[00:15:54] Number of vehicle models: 0
+[00:15:54] hello world
+[00:15:54] hash : $2y$12$.6uROtSNQu8bfiDiEuLN2eWiUt8xqdChnNtawGtrWKN6iwOvl4a2i
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:16:00] 
+[00:16:00] Server Plugins
+[00:16:00] --------------
+[00:16:00]  Loading plugin: samp_bcrypt
+[00:16:00] [SampBcrypt] [info]: Version: 0.4.0
+[00:16:00]   Loaded.
+[00:16:00]  Loading plugin: streamer
+[00:16:00] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:16:00]   Loaded.
+[00:16:00]  Loading plugin: mysql
+[00:16:00]  >> plugin.mysql: R41-4 successfully loaded.
+[00:16:00]   Loaded.
+[00:16:00]  Loaded 3 plugins.
+
+[00:16:00] 
+[00:16:00] Filterscripts
+[00:16:00] ---------------
+[00:16:00]   Loaded 0 filterscripts.
+
+[00:16:00] Hello frikin well
+[00:16:00] Saludando...
+[00:16:00] Number of vehicle models: 0
+[00:16:00] hello world
+[00:16:00] hash : $2y$12$qlYHAUv6K5T9t5k7jIIEouvNCZRcoyEH6tco4N9/2GVS.w53YS4bi
+[00:16:24] [connection] incoming connection: 127.0.0.1:59413 id: 0
+[00:16:24] [join] Joaco has joined the server (0:127.0.0.1)
+[00:16:55] --- Server Shutting Down.
+[00:16:55] [part] Joaco has left the server (0:0)
+[00:16:55] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:16:55] plugin.mysql: Unloading plugin...
+[00:16:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:16:59] 
+[00:16:59] Server Plugins
+[00:16:59] --------------
+[00:16:59]  Loading plugin: samp_bcrypt
+[00:16:59] [SampBcrypt] [info]: Version: 0.4.0
+[00:16:59]   Loaded.
+[00:16:59]  Loading plugin: streamer
+[00:16:59] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:16:59]   Loaded.
+[00:16:59]  Loading plugin: mysql
+[00:16:59]  >> plugin.mysql: R41-4 successfully loaded.
+[00:16:59]   Loaded.
+[00:16:59]  Loaded 3 plugins.
+
+[00:16:59] 
+[00:16:59] Filterscripts
+[00:16:59] ---------------
+[00:16:59]   Loaded 0 filterscripts.
+
+[00:16:59] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:16:59] Number of vehicle models: 0
+[00:17:06] --- Server Shutting Down.
+[00:17:06] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:17:06] plugin.mysql: Unloading plugin...
+[00:17:06] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:07] 
+[00:18:07] Server Plugins
+[00:18:07] --------------
+[00:18:07]  Loading plugin: samp_bcrypt
+[00:18:07] [SampBcrypt] [info]: Version: 0.4.0
+[00:18:07]   Loaded.
+[00:18:07]  Loading plugin: streamer
+[00:18:07] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:18:07]   Loaded.
+[00:18:07]  Loading plugin: mysql
+[00:18:07]  >> plugin.mysql: R41-4 successfully loaded.
+[00:18:07]   Loaded.
+[00:18:07]  Loaded 3 plugins.
+
+[00:18:07] 
+[00:18:07] Filterscripts
+[00:18:07] ---------------
+[00:18:07]   Loaded 0 filterscripts.
+
+[00:18:07] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:18:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:55] 
+[00:18:55] Server Plugins
+[00:18:55] --------------
+[00:18:55]  Loading plugin: samp_bcrypt
+[00:18:55] [SampBcrypt] [info]: Version: 0.4.0
+[00:18:55]   Loaded.
+[00:18:55]  Loading plugin: streamer
+[00:18:55] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:18:55]   Loaded.
+[00:18:55]  Loading plugin: mysql
+[00:18:55]  >> plugin.mysql: R41-4 successfully loaded.
+[00:18:55]   Loaded.
+[00:18:55]  Loaded 3 plugins.
+
+[00:18:55] 
+[00:18:55] Filterscripts
+[00:18:55] ---------------
+[00:18:55]   Loaded 0 filterscripts.
+
+[00:18:55] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:18:55] Number of vehicle models: 0
+[00:18:56] --- Server Shutting Down.
+[00:18:56] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:18:56] plugin.mysql: Unloading plugin...
+[00:18:56] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:19:11] 
+[00:19:11] Server Plugins
+[00:19:11] --------------
+[00:19:11]  Loading plugin: samp_bcrypt
+[00:19:11] [SampBcrypt] [info]: Version: 0.4.0
+[00:19:11]   Loaded.
+[00:19:11]  Loading plugin: streamer
+[00:19:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:19:11]   Loaded.
+[00:19:11]  Loading plugin: mysql
+[00:19:11]  >> plugin.mysql: R41-4 successfully loaded.
+[00:19:11]   Loaded.
+[00:19:11]  Loaded 3 plugins.
+
+[00:19:11] 
+[00:19:11] Filterscripts
+[00:19:11] ---------------
+[00:19:11]   Loaded 0 filterscripts.
+
+[00:19:11] Conexión establecida a la base de datos.
+[00:19:11] Hello frikin well
+[00:19:11] Number of vehicle models: 0
+[00:20:11] --- Server Shutting Down.
+[00:20:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:20:11] plugin.mysql: Unloading plugin...
+[00:20:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:27:11] 
+[00:27:11] Server Plugins
+[00:27:11] --------------
+[00:27:11]  Loading plugin: samp_bcrypt
+[00:27:11] [SampBcrypt] [info]: Version: 0.4.0
+[00:27:11]   Loaded.
+[00:27:11]  Loading plugin: streamer
+[00:27:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:27:11]   Loaded.
+[00:27:11]  Loading plugin: mysql
+[00:27:11]  >> plugin.mysql: R41-4 successfully loaded.
+[00:27:11]   Loaded.
+[00:27:11]  Loaded 3 plugins.
+
+[00:27:11] 
+[00:27:11] Filterscripts
+[00:27:11] ---------------
+[00:27:11]   Loaded 0 filterscripts.
+
+[00:27:11] Conexión establecida a la base de datos.
+[00:27:11] Hello frikin well
+[00:27:11] Number of vehicle models: 0
+[00:27:26] --- Server Shutting Down.
+[00:27:26] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:27:26] plugin.mysql: Unloading plugin...
+[00:27:26] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:27:28] 
+[00:27:28] Server Plugins
+[00:27:28] --------------
+[00:27:28]  Loading plugin: samp_bcrypt
+[00:27:28] [SampBcrypt] [info]: Version: 0.4.0
+[00:27:28]   Loaded.
+[00:27:28]  Loading plugin: streamer
+[00:27:28] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:27:28]   Loaded.
+[00:27:28]  Loading plugin: mysql
+[00:27:28]  >> plugin.mysql: R41-4 successfully loaded.
+[00:27:28]   Loaded.
+[00:27:28]  Loaded 3 plugins.
+
+[00:27:28] 
+[00:27:28] Filterscripts
+[00:27:28] ---------------
+[00:27:28]   Loaded 0 filterscripts.
+
+[00:27:28] Conexión establecida a la base de datos.
+[00:27:28] Hello frikin well
+[00:27:28] Number of vehicle models: 0
+[00:27:29] --- Server Shutting Down.
+[00:27:29] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:27:29] plugin.mysql: Unloading plugin...
+[00:27:29] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:27:34] 
+[00:27:34] Server Plugins
+[00:27:34] --------------
+[00:27:34]  Loading plugin: samp_bcrypt
+[00:27:34] [SampBcrypt] [info]: Version: 0.4.0
+[00:27:34]   Loaded.
+[00:27:34]  Loading plugin: streamer
+[00:27:34] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:27:34]   Loaded.
+[00:27:34]  Loading plugin: mysql
+[00:27:34]  >> plugin.mysql: R41-4 successfully loaded.
+[00:27:34]   Loaded.
+[00:27:34]  Loaded 3 plugins.
+
+[00:27:34] 
+[00:27:34] Filterscripts
+[00:27:34] ---------------
+[00:27:34]   Loaded 0 filterscripts.
+
+[00:27:34] Conexión establecida a la base de datos.
+[00:27:34] Hello frikin well
+[00:27:34] Number of vehicle models: 0
+[00:28:15] [connection] incoming connection: 127.0.0.1:54335 id: 0
+[00:28:16] [join] Joaco has joined the server (0:127.0.0.1)
+[00:29:18] --- Server Shutting Down.
+[00:29:18] [part] Joaco has left the server (0:0)
+[00:29:18] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:29:18] plugin.mysql: Unloading plugin...
+[00:29:18] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:31:34] 
+[00:31:34] Server Plugins
+[00:31:34] --------------
+[00:31:34]  Loading plugin: samp_bcrypt
+[00:31:34] [SampBcrypt] [info]: Version: 0.4.0
+[00:31:34]   Loaded.
+[00:31:34]  Loading plugin: streamer
+[00:31:34] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:31:34]   Loaded.
+[00:31:34]  Loading plugin: mysql
+[00:31:34]  >> plugin.mysql: R41-4 successfully loaded.
+[00:31:34]   Loaded.
+[00:31:34]  Loaded 3 plugins.
+
+[00:31:34] 
+[00:31:34] Filterscripts
+[00:31:34] ---------------
+[00:31:34]   Loaded 0 filterscripts.
+
+[00:31:34] Conexión establecida a la base de datos.
+[00:31:34] Hello frikin well
+[00:31:34] Number of vehicle models: 0
+[00:32:27] --- Server Shutting Down.
+[00:32:27] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:32:27] plugin.mysql: Unloading plugin...
+[00:32:27] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:32:37] 
+[00:32:37] Server Plugins
+[00:32:37] --------------
+[00:32:37]  Loading plugin: samp_bcrypt
+[00:32:37] [SampBcrypt] [info]: Version: 0.4.0
+[00:32:37]   Loaded.
+[00:32:37]  Loading plugin: streamer
+[00:32:37] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:32:37]   Loaded.
+[00:32:37]  Loading plugin: mysql
+[00:32:37]  >> plugin.mysql: R41-4 successfully loaded.
+[00:32:37]   Loaded.
+[00:32:37]  Loaded 3 plugins.
+
+[00:32:37] 
+[00:32:37] Filterscripts
+[00:32:37] ---------------
+[00:32:37]   Loaded 0 filterscripts.
+
+[00:32:37] Conexión establecida a la base de datos.
+[00:32:37] Hello frikin well
+[00:32:37] Number of vehicle models: 0
+[00:32:57] [connection] incoming connection: 127.0.0.1:52130 id: 0
+[00:32:57] [join] Joaco has joined the server (0:127.0.0.1)
+[00:33:06] 1
+[00:33:12] [part] Joaco has left the server (0:1)
+[00:33:30] --- Server Shutting Down.
+[00:33:30] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:33:30] plugin.mysql: Unloading plugin...
+[00:33:30] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:35:06] 
+[00:35:06] Server Plugins
+[00:35:06] --------------
+[00:35:06]  Loading plugin: samp_bcrypt
+[00:35:06] [SampBcrypt] [info]: Version: 0.4.0
+[00:35:06]   Loaded.
+[00:35:06]  Loading plugin: streamer
+[00:35:06] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:35:06]   Loaded.
+[00:35:06]  Loading plugin: mysql
+[00:35:06]  >> plugin.mysql: R41-4 successfully loaded.
+[00:35:06]   Loaded.
+[00:35:06]  Loaded 3 plugins.
+
+[00:35:06] 
+[00:35:06] Filterscripts
+[00:35:06] ---------------
+[00:35:06]   Loaded 0 filterscripts.
+
+[00:35:06] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[00:35:06] Number of vehicle models: 0
+[00:35:10] --- Server Shutting Down.
+[00:35:10] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[00:35:10] plugin.mysql: Unloading plugin...
+[00:35:10] plugin.mysql: Plugin unloaded.

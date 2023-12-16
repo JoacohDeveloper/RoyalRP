@@ -14,3 +14,14 @@ stock getPlayerUsername(playerid) {
 
 	return username;
 }
+
+stock GetVehicleSpeed(vehicleid)
+{
+	new Float:v_x;
+	new Float:v_y;
+	new Float:v_z;
+
+	GetVehicleVelocity(vehicleid, v_x, v_y, v_z);
+
+	return floatround(floatsqroot((v_x * v_x) + (v_y * v_y) + (v_z * v_z)) * 181.5);
+}
