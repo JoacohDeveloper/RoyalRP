@@ -11,16 +11,25 @@
 		"samp-incognito/samp-streamer-plugin:v2.9.6",
 		"RogueDrifter/Anti_cheat_pack",
 		"pBlueG/SA-MP-MySQL:R41-4",
-		"Y-Less/sscanf/releases/tag/v2.13.8:v2.13.8"
+		"Y-Less/sscanf/releases/tag/v2.13.8:v2.13.8",
+		"Southclaws/pawn-uuid:1.0.1",
+		"Southclaws/pawn-requests:0.10.0",
+		"oscar-broman/strlib",
+		"Southclaws/pawn-json:1.4.1",
+		"BigETI/pawn-map",
+		"ScavengeSurvive/settings:1.0.1",
+		"Southclaws/samp-logger:1.5.0"
 	],
 	"local": true,
 	"runtime": {
 		"version": "0.3.7",
 		"mode": "server",
+		"filterscripts": [
+			"cameraeditor"
+		],
 		"rcon_password": "1234",
 		"port": 7777,
 		"hostname": "RoyalRP SA:MP Server",
-		"filterscripts": ["cameraeditor"],
 		"maxplayers": 2,
 		"language": "Spanish",
 		"mapname": "San Andreas",

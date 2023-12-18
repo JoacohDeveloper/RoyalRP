@@ -10,7 +10,7 @@ enum E_User {
 	Float:Armour,
 	Money,
 	bool:Dead,
-	bool:Loged,
+	bool:LoggedIn,
 	Email[144],
 	Password[61],
 	Token[45],

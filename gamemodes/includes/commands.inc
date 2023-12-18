@@ -1,6 +1,5 @@
-
 #include <zcmd>
-// #include <sscanf2>
+#include <sscanf2>
 
 // CMD:saludar(playerid){
 
@@ -49,18 +48,7 @@ CMD:vida(playerid) {
 	return 1;
 }
 
-CMD:cinematica(playerid) {
 
-
-	SetPlayerCameraPos(playerid,132.000000,-67.291427,1.578125);
-	SetPlayerCameraLookAt(playerid,137.000000,-67.291427,1.578125);
-	SetPlayerCameraPos(playerid,132.000000,-67.291427,1.578125);
-	SetPlayerCameraLookAt(playerid,137.000000,-67.291427,1.578125);
-	InterpolateCameraPos(playerid,132.000000,-67.291427,1.578125,296.909515,-67.291427,1.578125,30000,CAMERA_MOVE);
-	InterpolateCameraLookAt(playerid,137.000000,-67.291427,1.578125,308.819641,-67.291427,1.578125,1000,CAMERA_MOVE);
-
-	return 1;
-}
 
 
 
@@ -70,3 +58,5 @@ public OnObjectMoved(objectid) {
 
 	return 1;
 }
+
+
